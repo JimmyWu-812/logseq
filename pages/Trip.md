@@ -121,8 +121,9 @@ public:: true
 			- [游記扣仔嗲](https://www.google.com/maps/place/%E6%B8%B8%E8%A8%98%E6%89%A3%E4%BB%94%E5%97%B2/@23.9601093,120.963391,17z/data=!3m1!4b1!4m5!3m4!1s0x3468d99779e5edc1:0xfef023104c11679b!8m2!3d23.9601085!4d120.9678802)
 	- ## 15:30 回彰化
 	  collapsed:: true
-		- [老店朱爌肉飯](https://www.google.com/maps/place/%E8%80%81%E5%BA%97%E6%9C%B1%E7%88%8C%E8%82%89%E9%A3%AF/@24.0854079,120.5450012,17z/data=!3m1!4b1!4m5!3m4!1s0x3469389588d6d6c3:0x43b624fcaa12b8c7!8m2!3d24.0853969!4d120.547137)
-		- [阿佑腳庫飯](https://www.google.com/maps/place/%E9%98%BF%E4%BD%91%E8%85%B3%E5%BA%AB%E9%A3%AF/@24.0594984,120.4218565,15z/data=!3m1!4b1!4m5!3m4!1s0x346945e32b7536fd:0xa4c52524394e6611!8m2!3d24.0595148!4d120.4305954)
+		- [黑豬灶爌肉飯](https://www.google.com/maps/place/%E9%BB%91%E8%B1%AC%E7%81%B6%E7%88%8C%E8%82%89%E9%A3%AF/@24.0671516,120.4571392,12.24z/data=!4m5!3m4!1s0x3469460750a029e5:0xbb95edbb92e5d7fd!8m2!3d24.0518165!4d120.4362175)
+		- [榕樹下爌肉飯](https://www.google.com/maps/place/%E6%A6%95%E6%A8%B9%E4%B8%8B%E7%88%8C%E8%82%89%E9%A3%AF/@24.0880507,120.5370494,17z/data=!3m1!4b1!4m5!3m4!1s0x346938a2ada375c9:0xbc4c070177eee3d4!8m2!3d24.0881342!4d120.5392217)
+		- [阿貞炸饅頭](https://www.google.com/maps/place/%E9%98%BF%E8%B2%9E%E7%82%B8%E9%A5%85%E9%A0%AD/@24.0739363,120.5402701,17z/data=!3m1!4b1!4m5!3m4!1s0x3469388e5300e87f:0xe8ea378803ced479!8m2!3d24.0739363!4d120.5424588)
 - # 第四天 (8/20 星期六)
   collapsed:: true
 	- ## 09:30 出發回家
