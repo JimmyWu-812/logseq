@@ -1,4 +1,7 @@
+public:: true
+
 - # 第一天 (8/17 星期三)
+  collapsed:: true
 	- ## 08:00 出門
 	- ## 11:00-12:00 中途 午餐(任選)
 	  collapsed:: true
