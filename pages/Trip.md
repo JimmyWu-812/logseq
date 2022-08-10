@@ -108,7 +108,7 @@ public:: true
 		- [車埕木業展示館](https://www.google.com/maps/place/%E8%BB%8A%E5%9F%95%E6%9C%A8%E6%A5%AD%E5%B1%95%E7%A4%BA%E9%A4%A8/@23.8335258,120.8660051,18.77z/data=!4m5!3m4!1s0x34692a44ba41faaf:0xe15bf53af1f71089!8m2!3d23.8337746!4d120.8658752)
 		- [車埕火車站](https://www.google.com/maps/place/Checheng+Train+Station/@23.8326291,120.8650262,18.52z/data=!4m5!3m4!1s0x34692a5b40b2e7e9:0x1edd8746962e4fce!8m2!3d23.8325172!4d120.865639)
 		- [車埕遊客中心](https://www.google.com/maps/place/Checheng+Visitor+Center/@23.8320376,120.8645481,17z/data=!4m5!3m4!1s0x34692a44b83713c9:0xc453ab5b22bedfa8!8m2!3d23.8320376!4d120.8658589)
-	- ## 14:00-15:30 午餐
+	- ## 14:00-15:30 午餐(任選)
 	  collapsed:: true
 		- 車埕
 		  collapsed:: true
