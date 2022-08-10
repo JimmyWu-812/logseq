@@ -119,7 +119,7 @@ public:: true
 			- [蘇媽媽湯圓](https://www.google.com/maps/place/%E8%98%87%E5%AA%BD%E5%AA%BD%E6%B9%AF%E5%9C%93/@23.96516,120.9661035,16.09z/data=!4m5!3m4!1s0x3468d9a22696671d:0x677e7387774d8852!8m2!3d23.9667098!4d120.9628373?hl=zh-Hant-TW)
 			- [菊肉圓](https://www.google.com/maps/place/%E8%8F%8A%E8%82%89%E5%9C%93/@23.963825,120.9621388,17z/data=!4m5!3m4!1s0x0:0xa02366827c5fec4b!8m2!3d23.9638473!4d120.9638906)
 			- [游記扣仔嗲](https://www.google.com/maps/place/%E6%B8%B8%E8%A8%98%E6%89%A3%E4%BB%94%E5%97%B2/@23.9601093,120.963391,17z/data=!3m1!4b1!4m5!3m4!1s0x3468d99779e5edc1:0xfef023104c11679b!8m2!3d23.9601085!4d120.9678802)
-	- ## 15:30 回彰化
+	- ## 15:30 回彰化 晚餐(任選)
 	  collapsed:: true
 		- [黑豬灶爌肉飯](https://www.google.com/maps/place/%E9%BB%91%E8%B1%AC%E7%81%B6%E7%88%8C%E8%82%89%E9%A3%AF/@24.0671516,120.4571392,12.24z/data=!4m5!3m4!1s0x3469460750a029e5:0xbb95edbb92e5d7fd!8m2!3d24.0518165!4d120.4362175)
 		- [榕樹下爌肉飯](https://www.google.com/maps/place/%E6%A6%95%E6%A8%B9%E4%B8%8B%E7%88%8C%E8%82%89%E9%A3%AF/@24.0880507,120.5370494,17z/data=!3m1!4b1!4m5!3m4!1s0x346938a2ada375c9:0xbc4c070177eee3d4!8m2!3d24.0881342!4d120.5392217)
