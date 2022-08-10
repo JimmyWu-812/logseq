@@ -159,7 +159,7 @@
   :block/updated-at 1660103328750}
  {:block/name "trip",
   :block/created-at 1660103588106,
-  :block/updated-at 1660105379036}
+  :block/updated-at 1660115447750}
  {:block/name "wait",
   :block/created-at 1660103328751,
   :block/updated-at 1660103328751}
