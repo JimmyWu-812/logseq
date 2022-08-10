@@ -1070,40 +1070,147 @@
 	  collapsed:: true
 		- おお（っ）　１
 - # 26
+  collapsed:: true
 	- #card 豆腐
+	  collapsed:: true
+		- 豆腐　とうふ　３、０
 	- #card 順道去~；靠近，接近
+	  collapsed:: true
+		- 寄る　よる　０　自五
 	- #card 清爽的，爽快的
+	  collapsed:: true
+		- 爽やか（だ）　さわやか（だ）　２
 	- #card 度日，過活
+	  collapsed:: true
+		- 暮らす　くらす　０　自他五
+		- https://kakijun.jp/gif-mini/1440200-m.gif
 	- #card 成果
+	  collapsed:: true
+		- 成果　せいか　１
 	- #card 專心致力
+	  collapsed:: true
+		- 専念する　せんねんする　０、３　自スル
 	- #card 來往，交際；陪，奉陪
+	  collapsed:: true
+		- 付き合う　つきあう　３　自五
 	- #card 宅配，送貨到府
+	  collapsed:: true
+		- 宅配便　たくはいびん　０
 	- #card 順便，趁機
+	  collapsed:: true
+		- ついでに　０
 	- #card 飯糰
+	  collapsed:: true
+		- お握り　おにぎり　２
 	- #card 拷貝，複製
+	  collapsed:: true
+		- ダビングする　０　他スル
 	- #card 編輯，編纂
+	  collapsed:: true
+		- 編集　へんしゅう　０
+		- https://kakijun.jp/gif-mini/1583200-m.gif
 	- #card 中級
+	  collapsed:: true
+		- 中級　ちゅうきゅう　０
+		- https://kakijun.jp/gif-mini/09174200-m.gif
 	- #card 帶領，帶著
+	  collapsed:: true
+		- 連れる　つれる　０　他下一
 	- #card ~之後
+	  collapsed:: true
+		- ～後　～ご　０
 	- #card 韓文的表音文字
+	  collapsed:: true
+		- ハングル　１
 	- #card 超值早餐
+	  collapsed:: true
+		- モーニングサービス　６
 	- #card 預習
+	  collapsed:: true
+		- 予習　よしゅう　０
 	- #card 太空人，太空飛行員
+	  collapsed:: true
+		- 宇宙飛行士　うちゅうひこうし　５
 	- #card 特別，特殊，格外
+	  collapsed:: true
+		- 特別（だ）　とくべつ（だ）　０
 	- #card 訓練
+	  collapsed:: true
+		- 訓練　くんれん　１
+		- https://kakijun.jp/gif-mini/1493200-m.gif
 	- #card 國民
+	  collapsed:: true
+		- 国民　こくみん　０
 	- #card 反對
+	  collapsed:: true
+		- 反対する　はんたいする　０　自スル
 	- #card 政府
+	  collapsed:: true
+		- 政府　せいふ　１
 	- #card 原子能，核能
+	  collapsed:: true
+		- 原子力　げんしりょく　３
 	- #card 利用
+	  collapsed:: true
+		- 利用する　りようする　０　他スル
 	- #card 女演員
+	  collapsed:: true
+		- 女優　じょゆう　０
 	- #card 郵筒
+	  collapsed:: true
+		- ポスト　１
 	- #card 主婦，全職媽媽
+	  collapsed:: true
+		- 専業主婦　せんぎょうしゅふ　５
+		- https://kakijun.jp/gif-mini/1132200-m.gif
 	- #card (在同一工作單位)連續服務
+	  collapsed:: true
+		- 勤続　きんぞく　０
+		- https://kakijun.jp/gif-mini/1210200-m.gif
+		- https://kakijun.jp/gif-mini/13115200-m.gif
 	- #card 對，就是那樣
+	  collapsed:: true
+		- そう　１
 	- #card 蕎麥；[略語] 蕎麥麵
+	  collapsed:: true
+		- そば　１
 	- #card 然而，但是
+	  collapsed:: true
+		- しかし　２
 	- #card 離別，分開
-	- #card
+	  collapsed:: true
+		- お別れ　おわかれ　０
+	- #card 送別會
+	  collapsed:: true
+		- お別れ会　おわかれかい　４
+	- #card 心情，心境；身心感受
+	  collapsed:: true
+		- 気持ち　きもち　０
+		- https://kakijun.jp/gif-mini/0991200-m.gif
+	- #card 想，思索，考慮
+	  collapsed:: true
+		- 考える　かんがえる　４、３　他下一
+	- #card 擴大；展開，攤開
+	  collapsed:: true
+		- 広げる　ひろげる　０　他下一
+	- #card 感謝
+	  collapsed:: true
+		- 感謝する　かんしゃする　１　他スル
+		- https://kakijun.jp/gif-mini/1344200-m.gif
+	- #card 剛~，才~
+	  collapsed:: true
+		- （～た）ばかり
+	- #card 腰部；(衣服的)腰身部分
+	  collapsed:: true
+		- ウエスト　０、２
+	- #card 緊的；嚴苛的，難耐的
+	  collapsed:: true
+		- きつい　０、２
+	- #card 健身房
+	  collapsed:: true
+		- スポーツジム　５
+	- #card 卓越的；地位崇高的
+	  collapsed:: true
+		- 偉い　えらい　２
 -
 - ### Next: Japanese 5
