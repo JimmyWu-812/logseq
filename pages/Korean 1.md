@@ -2056,7 +2056,6 @@
 	  collapsed:: true
 		- 돈가스
 	- #card 午餐
-	  collapsed:: true
 		- 점심
 	- #card 等級
 	  collapsed:: true
@@ -2468,6 +2467,8 @@
 	- #card 大的
 	- #card 甜米水
 	- #card 那裡
-	- #card
+	- #card 小說
+	- #card 故事、說話
+	- #card 慢慢地
 -
 - ### Next: [[Korean 2]]
