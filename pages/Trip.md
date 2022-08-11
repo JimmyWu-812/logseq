@@ -61,17 +61,16 @@ public:: true
 		- ((62efeae6-980c-460b-83eb-004ce5849672))
 - # 第二天 (8/18 星期四)
   collapsed:: true
-	- ## 07:30-9:00 [依默騎馬度假莊園](https://www.google.com/maps/place/%E4%BE%9D%E9%BB%98%E9%A8%8E%E9%A6%AC%E5%BA%A6%E5%81%87%E8%8E%8A%E5%9C%92/@24.03751,121.1514205,17z/data=!3m1!4b1!4m8!3m7!1s0x3468c215dffd062f:0xc3ae933230f63dfa!5m2!4m1!1i2!8m2!3d24.03751!4d121.1536092) 早餐
+	- ## 07:30-8:30 [依默騎馬度假莊園](https://www.google.com/maps/place/%E4%BE%9D%E9%BB%98%E9%A8%8E%E9%A6%AC%E5%BA%A6%E5%81%87%E8%8E%8A%E5%9C%92/@24.03751,121.1514205,17z/data=!3m1!4b1!4m8!3m7!1s0x3468c215dffd062f:0xc3ae933230f63dfa!5m2!4m1!1i2!8m2!3d24.03751!4d121.1536092) 早餐
 	  collapsed:: true
 		- ((62efeb4d-3276-49b8-85ff-387d616bbbdc))
-	- ## 09:30-10:30 [依默騎馬度假莊園](https://www.google.com/maps/place/%E4%BE%9D%E9%BB%98%E9%A8%8E%E9%A6%AC%E5%BA%A6%E5%81%87%E8%8E%8A%E5%9C%92/@24.03751,121.1514205,17z/data=!3m1!4b1!4m8!3m7!1s0x3468c215dffd062f:0xc3ae933230f63dfa!5m2!4m1!1i2!8m2!3d24.03751!4d121.1536092) 騎馬並退房
+	- ## 08:30-10:00 [依默騎馬度假莊園](https://www.google.com/maps/place/%E4%BE%9D%E9%BB%98%E9%A8%8E%E9%A6%AC%E5%BA%A6%E5%81%87%E8%8E%8A%E5%9C%92/@24.03751,121.1514205,17z/data=!3m1!4b1!4m8!3m7!1s0x3468c215dffd062f:0xc3ae933230f63dfa!5m2!4m1!1i2!8m2!3d24.03751!4d121.1536092) 騎馬並退房
 	  collapsed:: true
 		- ((62efeb0b-9f03-4b7c-86b7-20ababb202dc))
 		- ((62efeb1f-5a68-4371-a6b6-3809800bd0ec))
 	- ## 11:00-12:00 午餐(任選)
 	  collapsed:: true
 		- 埔里
-		  collapsed:: true
 			- [蘇媽媽湯圓](https://www.google.com/maps/place/%E8%98%87%E5%AA%BD%E5%AA%BD%E6%B9%AF%E5%9C%93/@23.96516,120.9661035,16.09z/data=!4m5!3m4!1s0x3468d9a22696671d:0x677e7387774d8852!8m2!3d23.9667098!4d120.9628373?hl=zh-Hant-TW)
 			- [菊肉圓](https://www.google.com/maps/place/%E8%8F%8A%E8%82%89%E5%9C%93/@23.963825,120.9621388,17z/data=!4m5!3m4!1s0x0:0xa02366827c5fec4b!8m2!3d23.9638473!4d120.9638906)
 			- [游記扣仔嗲](https://www.google.com/maps/place/%E6%B8%B8%E8%A8%98%E6%89%A3%E4%BB%94%E5%97%B2/@23.9601093,120.963391,17z/data=!3m1!4b1!4m5!3m4!1s0x3468d99779e5edc1:0xfef023104c11679b!8m2!3d23.9601085!4d120.9678802)
