@@ -2023,7 +2023,6 @@
 	  collapsed:: true
 		- 배
 	- #card 奇異果
-	  collapsed:: true
 		- 키위
 	- #card 鳳梨
 	  collapsed:: true
@@ -2470,5 +2469,13 @@
 	- #card 小說
 	- #card 故事、說話
 	- #card 慢慢地
+	- #card 水果、果實
+	- #card 給~看、展示
+	- #card 皮鞋
+	- #card 嬰兒
+	- #card 狗
+	- #card 猴子
+	- #card 酒
+	-
 -
 - ### Next: [[Korean 2]]

@@ -1,2 +1,2 @@
-- [CNN July](https://qrcode.liveabc.com/magazine/9b931a69-00da-43c0-b0df-b9376ef2b7de)
-- [CNN August](https://qrcode.liveabc.com/magazine/8af00811-2102-4fc4-b49e-3f4ad4608ea6)
+- # [2022 July](https://qrcode.liveabc.com/magazine/9b931a69-00da-43c0-b0df-b9376ef2b7de)
+- # [2022 August](https://qrcode.liveabc.com/magazine/8af00811-2102-4fc4-b49e-3f4ad4608ea6)
