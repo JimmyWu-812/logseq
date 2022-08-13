@@ -2415,67 +2415,219 @@
 	  collapsed:: true
 		- 여행사
 - # 8
+  collapsed:: true
 	- #card 玩遊戲
+	  collapsed:: true
+		- 게임을 하다
 	- #card 玩高爾夫球
+	  collapsed:: true
+		- 골프를 치다
 	- #card 彈吉他
+	  collapsed:: true
+		- 기타를 치다
 	- #card 打籃球
+	  collapsed:: true
+		- 농구를 하다
 	- #card 打撞球
+	  collapsed:: true
+		- 당구를 치다
 	- #card 溜冰
+	  collapsed:: true
+		- 스케이트를 타다
 	- #card 滑雪
+	  collapsed:: true
+		- 스키를 타다
 	- #card 騎腳踏車
+	  collapsed:: true
+		- 자전거를 타다
 	- #card 踢足球
+	  collapsed:: true
+		- 축구를 하다
 	- #card 打網球
+	  collapsed:: true
+		- 테니스를 치다
 	- #card 彈鋼琴
+	  collapsed:: true
+		- 피아노를 치다
 	- #card 睡午覺
+	  collapsed:: true
+		- 낮잠을 자다
 	- #card 去KTV
+	  collapsed:: true
+		- 노래방에 가다
 	- #card 爬山
+	  collapsed:: true
+		- 등산(을) 하다
 	- #card 散步
+	  collapsed:: true
+		- 산책(을) 하다
 	- #card 旅行
+	  collapsed:: true
+		- 여행(을) 하다
 	- #card 去汗蒸幕
+	  collapsed:: true
+		- 찜질방에 가다
 	- #card 走路
+	  collapsed:: true
+		- 걷다
 	- #card 公車
+	  collapsed:: true
+		- 버스
 	- #card 搭乘
+	  collapsed:: true
+		- 타다
 	- #card 用走的去
+	  collapsed:: true
+		- 걸어서 가다
 	- #card 音樂
+	  collapsed:: true
+		- 음악
 	- #card 聽
+	  collapsed:: true
+		- 듣다
 	- #card 新聞
+	  collapsed:: true
+		- 뉴스
 	- #card 廣播
+	  collapsed:: true
+		- 라디오
 	- #card 好好地
+	  collapsed:: true
+		- 잘
 	- #card 收，收下
+	  collapsed:: true
+		- 받다
 	- #card 生活
+	  collapsed:: true
+		- 생활
 	- #card 一點、稍微
+	  collapsed:: true
+		- 조금
 	- #card 無聊的
+	  collapsed:: true
+		- 심심하다
 	- #card 漢江
+	  collapsed:: true
+		- 한강
 	- #card 可是
+	  collapsed:: true
+		- 그런데
 	- #card 如何地、怎樣地
+	  collapsed:: true
+		- 어떻게
 	- #card 近的
+	  collapsed:: true
+		- 가깝다
 	- #card 冠岳山
+	  collapsed:: true
+		- 관악산
 	- #card 市政府
+	  collapsed:: true
+		- 시청
 	- #card 真的
+	  collapsed:: true
+		- 정말
 	- #card 多的
+	  collapsed:: true
+		- 많다
 	- #card 小時候
+	  collapsed:: true
+		- 어렸을 때
 	- #card 幼小的、年幼的
+	  collapsed:: true
+		- 어리다
 	- #card 時候、時間
+	  collapsed:: true
+		- 때
 	- #card 身高
+	  collapsed:: true
+		- 키
 	- #card 小的、矮的
+	  collapsed:: true
+		- 작다
 	- #card 套、組、副、雙 (量詞)
+	  collapsed:: true
+		- 벌
 	- #card 經常
+	  collapsed:: true
+		- 자주
 	- #card 好啊 (表同意)
+	  collapsed:: true
+		- 그래요
 	- #card 下次
+	  collapsed:: true
+		- 다음
 	- #card 疲倦的
+	  collapsed:: true
+		- 피곤하다
 	- #card 大的
+	  collapsed:: true
+		- 크다
 	- #card 甜米水
+	  collapsed:: true
+		- 식혜
 	- #card 那裡
+	  collapsed:: true
+		- 저기
+	- #card 課堂
+	  collapsed:: true
+		- 수업
+	- #card 下午
+	  collapsed:: true
+		- 오후
+	- #card 運動場
+	  collapsed:: true
+		- 운동장
+	- #card ~號
+	  collapsed:: true
+		- 번
+	- #card 通常
+	  collapsed:: true
+		- 보통
+	- #card 聯誼
+	  collapsed:: true
+		- 미팅
+	- #card 介紹
+	  collapsed:: true
+		- 소개하다
+	- #card 一對一聯誼
+	  collapsed:: true
+		- 소개팅
+	- #card 長輩
+	  collapsed:: true
+		- 웃어른
+	- #card 相親
+	  collapsed:: true
+		- 선을 보다
 	- #card 小說
+	  collapsed:: true
+		- 소설책
 	- #card 故事、說話
+	  collapsed:: true
+		- 이야기
 	- #card 慢慢地
+	  collapsed:: true
+		- 천천히
 	- #card 水果、果實
+	  collapsed:: true
+		- 과일
 	- #card 給~看、展示
+	  collapsed:: true
+		- 보여 주다
 	- #card 皮鞋
+	  collapsed:: true
+		- 구두
 	- #card 嬰兒
+	  collapsed:: true
+		- 아기
 	- #card 狗
+	  collapsed:: true
+		- 개
 	- #card 猴子
+	  collapsed:: true
+		- 원숭이
 	- #card 酒
-	-
+	  collapsed:: true
+		- 술
 -
 - ### Next: [[Korean 2]]
