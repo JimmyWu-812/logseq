@@ -1,83 +1,124 @@
 - # 0
+  collapsed:: true
 	- #card 牙齒
+	  collapsed:: true
 		- 이
 	- #card 小孩
+	  collapsed:: true
 		- 아이
 	- #card 小黃瓜
+	  collapsed:: true
 		- 오이
 	- #card 樹
+	  collapsed:: true
 		- 나무
 	- #card 腿
+	  collapsed:: true
 		- 다리
 	- #card 頭髮
+	  collapsed:: true
 		- 머리
 	- #card 牛
+	  collapsed:: true
 		- 소
 	- #card 腰
+	  collapsed:: true
 		- 허리
 	- #card 地下
+	  collapsed:: true
 		- 지하
 	- #card 棒球
+	  collapsed:: true
 		- 야구
 	- #card 椰子樹
+	  collapsed:: true
 		- 야자수
 	- #card 女人
+	  collapsed:: true
 		- 여자
 	- #card 稻子
+	  collapsed:: true
 		- 벼
 	- #card 舌頭
+	  collapsed:: true
 		- 혀
 	- #card 瑜珈
+	  collapsed:: true
 		- 요가
 	- #card 教授
+	  collapsed:: true
 		- 교수
 	- #card 玻璃
+	  collapsed:: true
 		- 유리
 	- #card 鼻子
+	  collapsed:: true
 		- 코
 	- #card 鴕鳥
+	  collapsed:: true
 		- 타조
 	- #card 番茄
+	  collapsed:: true
 		- 토마토
 	- #card 鬥牛士
+	  collapsed:: true
 		- 투우사
 	- #card 蒼蠅
+	  collapsed:: true
 		- 파리
 	- #card 葡萄
+	  collapsed:: true
 		- 포도
 	- #card 郵票
+	  collapsed:: true
 		- 우표
 	- #card 裙子
+	  collapsed:: true
 		- 치마
 	- #card 辣椒
+	  collapsed:: true
 		- 고추
 	- #card 火車票
+	  collapsed:: true
 		- 기차표
 	- #card 喜鵲
+	  collapsed:: true
 		- 까치
 	- #card 尾巴
+	  collapsed:: true
 		- 꼬리
 	- #card 大象
+	  collapsed:: true
 		- 코끼리
 	- #card 採、摘
+	  collapsed:: true
 		- 따다
 	- #card 漂浮
+	  collapsed:: true
 		- 뜨다
 	- #card 髮箍
+	  collapsed:: true
 		- 머리띠
 	- #card 樹根
+	  collapsed:: true
 		- 뿌리
 	- #card 骨頭
+	  collapsed:: true
 		- 뼈
 	- #card 爸爸
+	  collapsed:: true
 		- 아빠
 	- #card 寫
+	  collapsed:: true
 		- 쓰다
 	- #card 鹹的
+	  collapsed:: true
 		- 짜다
 	- #card 蒸
+	  collapsed:: true
 		- 찌다
 	- #card 假的(東西)
+	  collapsed:: true
 		- 가짜
 	- #card
 - # 1
@@ -2376,7 +2417,6 @@
 	  collapsed:: true
 		- 베이징
 	- #card 游泳池
-	  collapsed:: true
 		- 수영장
 	- #card 花
 	  collapsed:: true

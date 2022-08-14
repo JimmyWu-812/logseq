@@ -1,6 +1,43 @@
 - ### Previous: [[Korean 1]]
 -
 - # 9
+	- #card 家人
+	- #card 奶奶
+	- #card 爺爺
+	- #card 媽媽
+	- #card 爸爸
+	- #card 姊姊 (男生用)
+	- #card 哥哥 (男生用)
+	- #card 姊姊 (女生用)
+	- #card 哥哥 (女生用)
+	- #card 妹妹
+	- #card 弟弟
+	- #card 妻子
+	- #card 丈夫
+	- #card 女兒
+	- #card 兒子
+	- #card (幾)歲 (量詞)
+	- #card 十
+	- #card 二十
+	- #card 三十
+	- #card 四十
+	- #card 五十
+	- #card 六十
+	- #card 七十
+	- #card 八十
+	- #card 九十
+	- #card 百
+	- #card 年紀 (一般用法, 尊敬用法)
+	- #card 吃，喝 (一般用法, 尊敬用法)
+	- #card (幾)個人，(幾)位 (一般用法, 尊敬用法)
+	- #card 名字 (一般用法, 尊敬用法)
+	- #card 在(家，某處) (一般用法, 尊敬用法)
+	- #card 睡覺 (一般用法, 尊敬用法)
+	- #card 家 (一般用法, 尊敬用法)
+	- #card 大學生
+	- #card 語言，話語，話
+	- #card 開車
+	- #card 數學
 - # 10
 - # 11
 - # 12
