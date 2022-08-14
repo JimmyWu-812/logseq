@@ -1,4 +1,85 @@
 - # 0
+	- #card 牙齒
+		- 이
+	- #card 小孩
+		- 아이
+	- #card 小黃瓜
+		- 오이
+	- #card 樹
+		- 나무
+	- #card 腿
+		- 다리
+	- #card 頭髮
+		- 머리
+	- #card 牛
+		- 소
+	- #card 腰
+		- 허리
+	- #card 地下
+		- 지하
+	- #card 棒球
+		- 야구
+	- #card 椰子樹
+		- 야자수
+	- #card 女人
+		- 여자
+	- #card 稻子
+		- 벼
+	- #card 舌頭
+		- 혀
+	- #card 瑜珈
+		- 요가
+	- #card 教授
+		- 교수
+	- #card 玻璃
+		- 유리
+	- #card 鼻子
+		- 코
+	- #card 鴕鳥
+		- 타조
+	- #card 番茄
+		- 토마토
+	- #card 鬥牛士
+		- 투우사
+	- #card 蒼蠅
+		- 파리
+	- #card 葡萄
+		- 포도
+	- #card 郵票
+		- 우표
+	- #card 裙子
+		- 치마
+	- #card 辣椒
+		- 고추
+	- #card 火車票
+		- 기차표
+	- #card 喜鵲
+		- 까치
+	- #card 尾巴
+		- 꼬리
+	- #card 大象
+		- 코끼리
+	- #card 採、摘
+		- 따다
+	- #card 漂浮
+		- 뜨다
+	- #card 髮箍
+		- 머리띠
+	- #card 樹根
+		- 뿌리
+	- #card 骨頭
+		- 뼈
+	- #card 爸爸
+		- 아빠
+	- #card 寫
+		- 쓰다
+	- #card 鹹的
+		- 짜다
+	- #card 蒸
+		- 찌다
+	- #card 假的(東西)
+		- 가짜
+	- #card
 - # 1
   collapsed:: true
 	- #card 德國，德國人
