@@ -9,7 +9,7 @@
   :block/updated-at 1660184959112}
  {:block/name "aug 12th, 2022",
   :block/created-at 1660274935042,
-  :block/updated-at 1660498749459}
+  :block/updated-at 1660583446923}
  {:block/name "aug 13th, 2022",
   :block/created-at 1660320838685,
   :block/updated-at 1660320838685}
@@ -19,6 +19,9 @@
  {:block/name "aug 15th, 2022",
   :block/created-at 1660492800246,
   :block/updated-at 1660492800246}
+ {:block/name "aug 16th, 2022",
+  :block/created-at 1660581417553,
+  :block/updated-at 1660581417553}
  {:block/name "aug 1st, 2022",
   :block/created-at 1660103576139,
   :block/updated-at 1660103576139}
