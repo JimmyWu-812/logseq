@@ -1,6 +1,7 @@
 - ### Previous: [[Korean 1]]
 -
 - # 9
+  collapsed:: true
 	- #card 家人
 	- #card 奶奶
 	- #card 爺爺
@@ -35,9 +36,41 @@
 	- #card 睡覺 (一般用法, 尊敬用法)
 	- #card 家 (一般用法, 尊敬用法)
 	- #card 大學生
+	  collapsed:: true
+		- 대학생
 	- #card 語言，話語，話
+	  collapsed:: true
+		- 말
 	- #card 開車
 	- #card 數學
+	- #card 打招呼、寒暄
+	- #card 這位，這邊
+	- #card 從(誰)
+	- #card 哪裡哪裡 (有人稱讚時)
+	- #card 社團
+	- #card 同科系
+	- #card 歷史
+	- #card 這位 (敬稱)
+	- #card 我的，我們
+	- #card 工作、勞動
+	  collapsed:: true
+		- 일
+	- #card 來往於(地方)，上(班)
+	- #card 親切的
+	- #card 社長
+	- #card 之前
+	- #card 帥氣的
+	- #card 父母
+	- #card 美女
+	- #card 大學
+	- #card 報社
+	- #card 國中
+	- #card 初中生
+	  collapsed:: true
+		- 중학생
+	- #card 小狗
+	- #card 全家福照
+	- #card
 - # 10
 - # 11
 - # 12
