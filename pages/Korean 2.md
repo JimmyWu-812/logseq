@@ -1,6 +1,7 @@
 - ### Previous: [[Korean 1]]
 -
 - # 9
+  collapsed:: true
 	- #card 家人
 	- #card 奶奶
 	- #card 爺爺

@@ -1,4 +1,5 @@
 - # 0
+  collapsed:: true
 	- #card 牙齒
 	  collapsed:: true
 		- 이
@@ -141,6 +142,23 @@
 	- #card 老鼠
 	- #card 汝矣島
 	- #card 會議
+	- #card 廚房
+	- #card 外面
+	- #card 錢
+	- #card 檸檬
+	- #card 馬上
+	- #card 梳子
+	- #card 白天
+	- #card 光
+	- #card 子音ㅎ
+	- #card 腳
+	- #card 熊
+	- #card 男人
+	- #card 媽媽
+	- #card 嘴巴
+	- #card 膝蓋
+	- #card 森林
+	- #card 球
 - # 1
   collapsed:: true
 	- #card 德國，德國人
