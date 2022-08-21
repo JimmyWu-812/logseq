@@ -1,7 +1,6 @@
 - ### Previous: [[Korean 1]]
 -
 - # 9
-  collapsed:: true
 	- #card 家人
 	- #card 奶奶
 	- #card 爺爺
@@ -70,6 +69,15 @@
 		- 중학생
 	- #card 小狗
 	- #card 全家福照
+	- #card
+	- #card 興趣、愛好
+	- #card 溫哥華
+	- #card 嬰兒
+	- #card 出生
+	- #card 其他國家
+	- #card 成為、變成
+	- #card 課
+	- #card
 	- #card
 - # 10
 - # 11

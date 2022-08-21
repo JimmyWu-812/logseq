@@ -1,5 +1,4 @@
 - # 0
-  collapsed:: true
 	- #card 牙齒
 	  collapsed:: true
 		- 이
@@ -120,7 +119,28 @@
 	- #card 假的(東西)
 	  collapsed:: true
 		- 가짜
-	- #card
+	- #card 螞蟻
+	- #card 船
+	- #card 鳥
+	- #card 太陽
+	- #card 螃蟹
+	- #card 鞦韆
+	- #card 聊天
+	- #card 漂亮的
+	- #card 書法
+	- #card 襯衫
+	- #card 畫家
+	- #card 豬
+	- #card 為什麼
+	- #card 服務生
+	- #card 毛衣
+	- #card 牛肉
+	- #card 背、記住
+	- #card 頭腦
+	- #card 耳朵
+	- #card 老鼠
+	- #card 汝矣島
+	- #card 會議
 - # 1
   collapsed:: true
 	- #card 德國，德國人
