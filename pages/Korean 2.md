@@ -70,7 +70,7 @@
 		- 중학생
 	- #card 小狗
 	- #card 全家福照
-	- #card
+	- #card 笑
 	- #card 興趣、愛好
 	- #card 溫哥華
 	- #card 嬰兒
@@ -78,7 +78,9 @@
 	- #card 其他國家
 	- #card 成為、變成
 	- #card 課
-	- #card
+	- #card 沙發
+	  collapsed:: true
+		- 소파
 	- #card
 - # 10
 - # 11
