@@ -36,7 +36,10 @@
   :block/updated-at 1661097603799}
  {:block/name "aug 23rd, 2022",
   :block/created-at 1661242501885,
-  :block/updated-at 1661242501885}
+  :block/updated-at 1661272953841}
+ {:block/name "aug 24th, 2022",
+  :block/created-at 1661271876312,
+  :block/updated-at 1661271876312}
  {:block/name "aug 2nd, 2022",
   :block/created-at 1660103576295,
   :block/updated-at 1660103576295}
@@ -79,6 +82,9 @@
  {:block/name "in-progress",
   :block/created-at 1660103328751,
   :block/updated-at 1660103328751}
+ {:block/name "investment",
+  :block/created-at 1661268087894,
+  :block/updated-at 1661268087894}
  {:block/name "japanese",
   :block/created-at 1660103574629,
   :block/updated-at 1660103574629}
