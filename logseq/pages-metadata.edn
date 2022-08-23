@@ -34,6 +34,9 @@
  {:block/name "aug 22nd, 2022",
   :block/created-at 1661097603799,
   :block/updated-at 1661097603799}
+ {:block/name "aug 23rd, 2022",
+  :block/created-at 1661242501885,
+  :block/updated-at 1661242501885}
  {:block/name "aug 2nd, 2022",
   :block/created-at 1660103576295,
   :block/updated-at 1660103576295}
@@ -52,9 +55,9 @@
  {:block/name "card",
   :block/created-at 1660103328750,
   :block/updated-at 1660103328750}
- {:block/name "cnn 2022q3",
+ {:block/name "cnn 2022_2",
   :block/created-at 1660103577099,
-  :block/updated-at 1661170358687}
+  :block/updated-at 1661245309014}
  {:block/name "contents",
   :block/created-at 1660103328751,
   :block/updated-at 1660103328751}
