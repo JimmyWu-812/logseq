@@ -81,7 +81,9 @@
 	- #card 沙發
 	  collapsed:: true
 		- 소파
-	- #card
+	- #card 阿姨
+	  collapsed:: true
+		- 이모
 - # 10
 - # 11
 - # 12
