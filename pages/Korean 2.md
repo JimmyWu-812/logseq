@@ -219,6 +219,36 @@
 	  collapsed:: true
 		- 기분
 - # 10
+  collapsed:: true
+	- #card 凌晨
+	- #card 早上，早餐
+	- #card 白天
+	- #card 晚上，晚餐
+	- #card 夜晚
+	- #card 上午、午前
+	- #card 下午、午後
+	- #card 等公車
+	- #card 搭公車
+	- #card 洗衣服
+	- #card 洗澡
+	- #card 洗臉
+	- #card 煮菜
+	- #card 開車
+	- #card 起床
+	- #card 打電話
+	- #card 打掃
+	- #card 用電腦
+	- #card 開會
+	- #card (幾)點 (時間)
+	- #card (幾)分 (時間)
+	- #card (幾點)半 (時間)
+	- #card 大約
+	- #card 課 (量詞)
+	  collapsed:: true
+		- 과
+	- #card 頁 (量詞)
+	  collapsed:: true
+		- 쪽
 - # 11
 - # 12
 - # 13
