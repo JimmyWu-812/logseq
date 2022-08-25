@@ -39,10 +39,13 @@
   :block/updated-at 1661272953841}
  {:block/name "aug 24th, 2022",
   :block/created-at 1661271876312,
-  :block/updated-at 1661354197247}
+  :block/updated-at 1661444553279}
  {:block/name "aug 25th, 2022",
   :block/created-at 1661393593503,
   :block/updated-at 1661393593503}
+ {:block/name "aug 26th, 2022",
+  :block/created-at 1661443201303,
+  :block/updated-at 1661443201303}
  {:block/name "aug 2nd, 2022",
   :block/created-at 1660103576295,
   :block/updated-at 1660103576295}
