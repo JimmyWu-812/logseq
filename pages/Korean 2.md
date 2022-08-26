@@ -219,6 +219,7 @@
 	  collapsed:: true
 		- 기분
 - # 10
+  collapsed:: true
 	- #card 凌晨
 	- #card 早上，早餐
 	- #card 白天
@@ -253,8 +254,10 @@
 	  id:: 630847fc-99e7-4175-b4e5-6aae64da7cd8
 	- #card 畫畫
 	- #card (火)車站
+	  collapsed:: true
 		- 역
 	- #card 下(車、船、飛機等)，降，落
+	  collapsed:: true
 		- 내리다
 	- #card 這次
 	- #card 放假
