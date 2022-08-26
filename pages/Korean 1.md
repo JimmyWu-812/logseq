@@ -516,7 +516,7 @@
 	  card-last-reviewed:: 2022-07-22T14:40:27.147Z
 	  card-last-score:: 5
 		- 사전
-	- #card 時鐘
+	- #card 時鐘、錶
 	  collapsed:: true
 		- 시계
 	- #card 報紙
@@ -2555,7 +2555,7 @@
 	- #card 前門
 	  collapsed:: true
 		- 앞문
-	- #card 學校放假
+	- #card 放假
 	  collapsed:: true
 		- 방학
 	- #card 上個冬天
