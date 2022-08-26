@@ -262,6 +262,14 @@
 	- #card 這次
 	- #card 放假
 	- #card 稍後
+	- #card 有個愉快的周末
+	- #card 約會
+	- #card 江南
+	- #card 汝矣島
+	- #card 博物館
+	- #card 練習
+	- #card 仁川
+	- #card
 - # 11
 - # 12
 - # 13
