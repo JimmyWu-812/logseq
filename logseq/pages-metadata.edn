@@ -52,6 +52,9 @@
  {:block/name "aug 28th, 2022",
   :block/created-at 1661616018019,
   :block/updated-at 1661616018019}
+ {:block/name "aug 29th, 2022",
+  :block/created-at 1661702412164,
+  :block/updated-at 1661702412164}
  {:block/name "aug 2nd, 2022",
   :block/created-at 1660103576295,
   :block/updated-at 1660103576295}
@@ -72,7 +75,7 @@
   :block/updated-at 1660103328750}
  {:block/name "cnn 2022 2",
   :block/created-at 1660103577099,
-  :block/updated-at 1661507466088}
+  :block/updated-at 1661701714859}
  {:block/name "contents",
   :block/created-at 1660103328751,
   :block/updated-at 1660103328751}
@@ -183,7 +186,7 @@
   :block/updated-at 1660103575138}
  {:block/name "korean 1",
   :block/created-at 1660103587092,
-  :block/updated-at 1661507596916}
+  :block/updated-at 1661695186243}
  {:block/name "korean 2",
   :block/created-at 1660103587072,
   :block/updated-at 1661656729897}
