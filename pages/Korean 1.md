@@ -1,3 +1,5 @@
+public:: true
+
 - # 0
   collapsed:: true
 	- #card 牙齒
