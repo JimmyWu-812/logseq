@@ -270,6 +270,39 @@
 	- #card 練習
 	- #card 仁川
 	- #card
+	- #card 街，街道
+	  collapsed:: true
+		- 거리
+	- #card 刀削麵
+	  collapsed:: true
+		- 칼국수
+	- #card 教堂
+	  collapsed:: true
+		- 성당
+	- #card 長腕小章魚
+	  collapsed:: true
+		- 낙지
+	- #card 商場，購物中心
+	  collapsed:: true
+		- 쇼핑몰
+	- #card 電影院
+	  collapsed:: true
+		- 영화관
+	- #card 水族館
+	  collapsed:: true
+		- 아쿠아리움
+	- #card 路程，行程
+	  collapsed:: true
+		- 일정
+	- #card 出入境管理局 (相當於台灣的「出入國及移民署」)
+	- #card 但是
+	- #card 初戀
+	  collapsed:: true
+		- 첫사랑
+	- #card 花店
+	  collapsed:: true
+		- 꽃집
+	- #card
 - # 11
 - # 12
 - # 13
