@@ -219,7 +219,6 @@
 	  collapsed:: true
 		- 기분
 - # 10
-  collapsed:: true
 	- #card 凌晨
 	- #card 早上，早餐
 	- #card 白天
@@ -269,7 +268,9 @@
 	- #card 博物館
 	- #card 練習
 	- #card 仁川
-	- #card
+	- #card 全州
+	- #card 傳統
+	- #card 電子郵件
 	- #card 街，街道
 	  collapsed:: true
 		- 거리
