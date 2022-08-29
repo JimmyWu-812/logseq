@@ -73,9 +73,6 @@
  {:block/name "card",
   :block/created-at 1660103328750,
   :block/updated-at 1660103328750}
- {:block/name "cnn 2022 2",
-  :block/created-at 1660103577099,
-  :block/updated-at 1661701714859}
  {:block/name "contents",
   :block/created-at 1660103328751,
   :block/updated-at 1660103328751}
@@ -88,6 +85,9 @@
  {:block/name "english",
   :block/created-at 1660103574346,
   :block/updated-at 1660103574346}
+ {:block/name "english 2022 2",
+  :block/created-at 1660103577099,
+  :block/updated-at 1661764056177}
  {:block/name "favorites",
   :block/created-at 1660103328750,
   :block/updated-at 1660103328750}

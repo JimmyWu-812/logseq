@@ -659,28 +659,67 @@
 	  collapsed:: true
 		- no shortage of
 	- #card 帝國；大企業 e_e
+		- empire
 	- #card 退休 r_t
+		- retirement
 	- #card 在活動中的；現役的 a_e
+		- active
 	- #card 長期的 l_e
+		- longtime
 	- #card 增至最大；到最大限度 m_e
+		- maximize
 	- #card 太好了；恭喜；加油 h_y
+		- hip hip hooray
 	- #card 特派員；通訊記者 c_t
+		- correspondent
 	- #card 概述；簡介 p_e
+		- profile
 	- #card 圖片說明 c_n
+		- caption
 	- #card 表情符號；顏文字 e_i
+		- emoji
 	- #card 財富；鉅款 f_e
+		- fortune
 	- #card 可以說…
+		- it's safe to say
 	- #card 協議；合約 c_t
+		- contract
 	- #card 股本；股份 s_e
+		- stake
 	- #card 少數 m_y
+		- minority
 	- #card 收穫量；收入 t_e
+		- take
 	- #card 估計；預估 e_e
+		- estimate
 	- #card (常複數) 持有股份 h_g
+		- holding
 	- #card 別墅；宅邸；豪宅 m_n
+		- mansion
 	- #card 精選的；挑選出來的 s_t
+		- select
 	- #card 同類的；同伴的 f_w
+		- fellow
 	- #card 鉅額；巨量；大部分 b_k
+		- bulk
 	- #card (公司、事業等)牢靠的；穩固的 s_d
+		- solid
 	- #card 紅利；股息；股利 d_d
+		- dividend
+	- #card 保衛；捍衛 s_d
+	- #card 授權；批准 a_n
+	- #card 使準備好；做好準備 p_p
+	- #card 審查；檢查 v_t
+	- #card 證實；使生效；驗證 v_e
+	- #card (藥劑的)一劑 d_e
+	- #card 效力；功效 e_y
+	- #card 有症狀的 s_c
+	- #card 重大的；值得注意的 s_t
+	- #card 傾向於…的 i_d
+	- #card 兩部分組成的；兩部分的 t_d
+	- #card 大幅上漲；迅速增加 s_p
+	- #card 上呼吸道 u_y
+	- #card 哮吼 c_p
+	- #card 加以比較；相提並論
 	- #card
 - # 2022 September
