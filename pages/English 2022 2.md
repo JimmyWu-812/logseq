@@ -659,67 +659,136 @@
 	  collapsed:: true
 		- no shortage of
 	- #card 帝國；大企業 e_e
+	  collapsed:: true
 		- empire
 	- #card 退休 r_t
+	  collapsed:: true
 		- retirement
 	- #card 在活動中的；現役的 a_e
+	  collapsed:: true
 		- active
 	- #card 長期的 l_e
+	  collapsed:: true
 		- longtime
 	- #card 增至最大；到最大限度 m_e
+	  collapsed:: true
 		- maximize
 	- #card 太好了；恭喜；加油 h_y
+	  collapsed:: true
 		- hip hip hooray
 	- #card 特派員；通訊記者 c_t
+	  collapsed:: true
 		- correspondent
 	- #card 概述；簡介 p_e
+	  collapsed:: true
 		- profile
 	- #card 圖片說明 c_n
+	  collapsed:: true
 		- caption
 	- #card 表情符號；顏文字 e_i
+	  collapsed:: true
 		- emoji
 	- #card 財富；鉅款 f_e
+	  collapsed:: true
 		- fortune
 	- #card 可以說…
+	  collapsed:: true
 		- it's safe to say
 	- #card 協議；合約 c_t
+	  collapsed:: true
 		- contract
 	- #card 股本；股份 s_e
+	  collapsed:: true
 		- stake
 	- #card 少數 m_y
+	  collapsed:: true
 		- minority
 	- #card 收穫量；收入 t_e
+	  collapsed:: true
 		- take
 	- #card 估計；預估 e_e
+	  collapsed:: true
 		- estimate
 	- #card (常複數) 持有股份 h_g
+	  collapsed:: true
 		- holding
 	- #card 別墅；宅邸；豪宅 m_n
+	  collapsed:: true
 		- mansion
 	- #card 精選的；挑選出來的 s_t
+	  collapsed:: true
 		- select
 	- #card 同類的；同伴的 f_w
+	  collapsed:: true
 		- fellow
 	- #card 鉅額；巨量；大部分 b_k
+	  collapsed:: true
 		- bulk
 	- #card (公司、事業等)牢靠的；穩固的 s_d
+	  collapsed:: true
 		- solid
 	- #card 紅利；股息；股利 d_d
+	  collapsed:: true
 		- dividend
 	- #card 保衛；捍衛 s_d
+		- safeguard
 	- #card 授權；批准 a_n
+		- authorization
 	- #card 使準備好；做好準備 p_p
+		- prep
 	- #card 審查；檢查 v_t
+		- vet
 	- #card 證實；使生效；驗證 v_e
+		- validate
 	- #card (藥劑的)一劑 d_e
+		- dose
 	- #card 效力；功效 e_y
+		- efficacy
 	- #card 有症狀的 s_c
+		- symptomatic
 	- #card 重大的；值得注意的 s_t
+		- significant
 	- #card 傾向於…的 i_d
+		- inclined (to)
 	- #card 兩部分組成的；兩部分的 t_d
+		- twofold
 	- #card 大幅上漲；迅速增加 s_p
+		- shoot up
 	- #card 上呼吸道 u_y
+		- upper airway
 	- #card 哮吼 c_p
+		- croup
 	- #card 加以比較；相提並論
-	- #card
+		- draw a comparison
+	- #card 犯罪的；犯法的 c_l
+	- #card 犯罪集團；黑幫 g_g
+	- #card 令人痛苦的；充滿仇恨的 b_r
+	- #card 放火燒；縱火燒 t_h
+	- #card 省；州 p_e
+	- #card 俚語；行話 s_g
+	- #card 在進行中的；活動者的 a_t
+	- #card 縱火(罪) a_n
+	- #card 公墓；墓地 c_y
+	- #card 交戰的；衝突的 w_g
+	- #card 勒索；敲詐 e_n
+	- #card 走私；偷運 s_e
+	- #card 特徵 c_c
+	- #card 止住；管束；限制
+	- #card 日以繼夜的；全天候的
+	- #card 不理會；摒棄；駁回 d_s
+	- #card 裂縫；裂痕 c_k
+	- #card 近距離平射的；直射的 p_k
+	- #card 可疑的；半信半疑的 d_s
+	- #card 不祥的；威脅的 o_s
+	- #card 地方行政長官；地方法官 m_e
+	- #card 多孔的；多漏洞的 p_s
+	- #card 滲透作用的；吸收；同化 o_s
+	- #card 中斷；打斷 i_n
+	- #card 開始意識到
+	- #card 坐牢；在獄中
+	- #card 公民的；平民的 c_l
+	- #card 適宜居住的 l_e
+	- #card 巡邏；巡查 p_l
+	- #card 檢查站；關卡 c_t
+	- #card 為…擔心；為…憂慮
 - # 2022 September
