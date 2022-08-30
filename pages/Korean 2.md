@@ -303,7 +303,13 @@
 	- #card 花店
 	  collapsed:: true
 		- 꽃집
-	- #card
+	- #card 折扣
+	  collapsed:: true
+		- 세일
+	- #card 音樂會，演奏會
+	  collapsed:: true
+		- 콘서트
+	-
 - # 11
 - # 12
 - # 13

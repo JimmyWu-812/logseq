@@ -1940,6 +1940,7 @@
 	- #card 頁數
 	  collapsed:: true
 		- 페이지
+		- 漢字數詞
 	- #card 情人節
 	  collapsed:: true
 	  card-last-interval:: -1
@@ -2183,6 +2184,7 @@
 	  collapsed:: true
 		- 배
 	- #card 奇異果
+	  collapsed:: true
 		- 키위
 	- #card 鳳梨
 	  collapsed:: true
@@ -2215,6 +2217,7 @@
 	  collapsed:: true
 		- 돈가스
 	- #card 午餐
+	  collapsed:: true
 		- 점심
 	- #card 等級
 	  collapsed:: true
@@ -2298,6 +2301,7 @@
 	  collapsed:: true
 		- 명
 	- #card 地鐵
+	  collapsed:: true
 		- 지하철
 	- #card 不好吃的
 	  collapsed:: true
@@ -2738,7 +2742,6 @@
 	  collapsed:: true
 		- 운동장
 	- #card ~號
-	  collapsed:: true
 		- 번
 	- #card 通常
 	  collapsed:: true
