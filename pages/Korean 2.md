@@ -50,6 +50,7 @@
 	- #card (幾)歲 (量詞)
 	  collapsed:: true
 		- 살
+		- 固有數詞
 	- #card 十
 	  collapsed:: true
 		- 열
@@ -89,6 +90,7 @@
 	- #card (幾)個人，(幾)位 (一般用法, 尊敬用法)
 	  collapsed:: true
 		- 사람/명, 분
+		- 固有數詞
 	- #card 名字 (一般用法, 尊敬用法)
 	  collapsed:: true
 		- 이름, 성함
@@ -219,39 +221,96 @@
 	  collapsed:: true
 		- 기분
 - # 10
+  collapsed:: true
 	- #card 凌晨
+	  collapsed:: true
+		- 새벽
 	- #card 早上，早餐
+	  collapsed:: true
+		- 아침
 	- #card 白天
+	  collapsed:: true
+		- 낮
 	- #card 晚上，晚餐
+	  collapsed:: true
+		- 저녁
 	- #card 夜晚
+	  collapsed:: true
+		- 밤
 	- #card 上午、午前
+	  collapsed:: true
+		- 오전
 	- #card 下午、午後
+	  collapsed:: true
+		- 오후
 	- #card 等公車
+	  collapsed:: true
+		- 버스를 기다리다
 	- #card 搭公車
+	  collapsed:: true
+		- 버스를 타다
 	- #card 洗衣服
+	  collapsed:: true
+		- 빨래하다
 	- #card 洗澡
+	  collapsed:: true
+		- 샤워하다
 	- #card 洗臉
+	  collapsed:: true
+		- 세수하다
 	- #card 煮菜
+	  collapsed:: true
+		- 요리하다
 	- #card 開車
+	  collapsed:: true
+		- 운전하다
 	- #card 起床
+	  collapsed:: true
+		- 일어나다
 	- #card 打電話
+	  collapsed:: true
+		- 전화하다
 	- #card 打掃
+	  collapsed:: true
+		- 청소하다
 	- #card 用電腦
+	  collapsed:: true
+		- 컴퓨터를 하다
 	- #card 開會
+	  collapsed:: true
+		- 회의하다
 	- #card (幾)點 (時間)
+	  collapsed:: true
+		- 시
+		- 固有數詞
 	- #card (幾)分 (時間)
+	  collapsed:: true
+		- 분
+		- 漢字數詞
 	- #card (幾點)半 (時間)
+	  collapsed:: true
+		- 반
 	- #card 大約
+	  collapsed:: true
+		- 쯤
 	- #card 課 (量詞)
 	  collapsed:: true
 		- 과
+		- 漢字數詞
 	- #card 頁 (量詞)
 	  collapsed:: true
 		- 쪽
+		- ???
 	- #card 上課
+	  collapsed:: true
+		- 수업(을) 하다
 	- #card 考試
 	  id:: 630847fc-99e7-4175-b4e5-6aae64da7cd8
+	  collapsed:: true
+		- 시험을 보다
 	- #card 畫畫
+	  collapsed:: true
+		- 그리다
 	- #card (火)車站
 	  collapsed:: true
 		- 역
@@ -259,18 +318,44 @@
 	  collapsed:: true
 		- 내리다
 	- #card 這次
+	  collapsed:: true
+		- 이번
 	- #card 放假
+	  collapsed:: true
+		- 방학
 	- #card 稍後
+	  collapsed:: true
+		- 조금 후
 	- #card 有個愉快的周末
+	  collapsed:: true
+		- 주말 잘 보내다
 	- #card 約會
+	  collapsed:: true
+		- 데이트하다
 	- #card 江南
+	  collapsed:: true
+		- 강남
 	- #card 汝矣島
+	  collapsed:: true
+		- 여의도
 	- #card 博物館
+	  collapsed:: true
+		- 박물관
 	- #card 練習
+	  collapsed:: true
+		- 연습
 	- #card 仁川
+	  collapsed:: true
+		- 인천
 	- #card 全州
+	  collapsed:: true
+		- 전주
 	- #card 傳統
+	  collapsed:: true
+		- 전통
 	- #card 電子郵件
+	  collapsed:: true
+		- 이메일
 	- #card 街，街道
 	  collapsed:: true
 		- 거리
@@ -296,7 +381,11 @@
 	  collapsed:: true
 		- 일정
 	- #card 出入境管理局 (相當於台灣的「出入國及移民署」)
+	  collapsed:: true
+		- 출입국관리사무소
 	- #card 但是
+	  collapsed:: true
+		- 그렇지만
 	- #card 初戀
 	  collapsed:: true
 		- 첫사랑
@@ -309,7 +398,6 @@
 	- #card 音樂會，演奏會
 	  collapsed:: true
 		- 콘서트
-	-
 - # 11
 - # 12
 - # 13
