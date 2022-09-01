@@ -399,6 +399,38 @@
 	  collapsed:: true
 		- 콘서트
 - # 11
+	- #card 胸部
+	- #card 腿
+	- #card 頭
+	- #card 脖子
+	- #card 身體
+	- #card 膝蓋
+	- #card 腳
+	- #card 肚子
+	- #card 手
+	- #card 肩膀
+	- #card 手臂
+	- #card 腰
+	- #card 耳朵
+	- #card 眼睛
+	- #card 臉
+	- #card 嘴巴
+	- #card 鼻子
+	- #card 咳嗽
+	- #card 喉嚨痛
+	- #card 發燒
+	- #card 流鼻水
+	- #card 痛的，不舒服的
+	- #card 忙碌的
+	- #card 肚子餓的
+	- #card 漂亮的
+	- #card 信
+	- #card 寫
+	- #card 壞的
+	- #card 抽菸
+	- #card 了解
+	- #card 遲到
+	- #card
 - # 12
 - # 13
 - # 14
