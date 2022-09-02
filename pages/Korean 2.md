@@ -399,6 +399,7 @@
 	  collapsed:: true
 		- 콘서트
 - # 11
+  collapsed:: true
 	- #card 胸部
 	- #card 腿
 	- #card 頭
@@ -430,7 +431,26 @@
 	- #card 抽菸
 	- #card 了解
 	- #card 遲到
-	- #card
+	- #card 感冒
+	- #card 流行
+	- #card 藥
+	- #card 好好休息
+	- #card 說話
+	- #card 許久地、長時間地
+	- #card 洗澡
+	- #card 酒
+	- #card 患者，病人
+	  collapsed:: true
+		- 환자
+	- #card 洗
+	- #card 熱水
+	- #card 冰塊水
+	- #card 客人
+	- #card 明年
+	- #card 結婚
+	- #card 報告
+	  collapsed:: true
+		- 리포트
 - # 12
 - # 13
 - # 14

@@ -1,5 +1,6 @@
 - # [2022 July](https://qrcode.liveabc.com/magazine/9b931a69-00da-43c0-b0df-b9376ef2b7de)
 - # [2022 August](https://qrcode.liveabc.com/magazine/8af00811-2102-4fc4-b49e-3f4ad4608ea6)
+  collapsed:: true
 	- #card 崩塌；陷落 c_n
 	  collapsed:: true
 		- cave in
@@ -731,64 +732,161 @@
 	  collapsed:: true
 		- dividend
 	- #card 保衛；捍衛 s_d
+	  collapsed:: true
 		- safeguard
 	- #card 授權；批准 a_n
+	  collapsed:: true
 		- authorization
 	- #card 使準備好；做好準備 p_p
+	  collapsed:: true
 		- prep
 	- #card 審查；檢查 v_t
+	  collapsed:: true
 		- vet
 	- #card 證實；使生效；驗證 v_e
+	  collapsed:: true
 		- validate
 	- #card (藥劑的)一劑 d_e
+	  collapsed:: true
 		- dose
 	- #card 效力；功效 e_y
+	  collapsed:: true
 		- efficacy
 	- #card 有症狀的 s_c
+	  collapsed:: true
 		- symptomatic
 	- #card 重大的；值得注意的 s_t
+	  collapsed:: true
 		- significant
 	- #card 傾向於…的 i_d
+	  collapsed:: true
 		- inclined (to)
 	- #card 兩部分組成的；兩部分的 t_d
+	  collapsed:: true
 		- twofold
 	- #card 大幅上漲；迅速增加 s_p
+	  collapsed:: true
 		- shoot up
 	- #card 上呼吸道 u_y
+	  collapsed:: true
 		- upper airway
 	- #card 哮吼 c_p
+	  collapsed:: true
 		- croup
 	- #card 加以比較；相提並論
+	  collapsed:: true
 		- draw a comparison
 	- #card 犯罪的；犯法的 c_l
+	  collapsed:: true
+		- criminal
 	- #card 犯罪集團；黑幫 g_g
+	  collapsed:: true
+		- gang
 	- #card 令人痛苦的；充滿仇恨的 b_r
+	  collapsed:: true
+		- bitter
 	- #card 放火燒；縱火燒 t_h
+	  collapsed:: true
+		- torch
 	- #card 省；州 p_e
+	  collapsed:: true
+		- province
 	- #card 俚語；行話 s_g
+	  collapsed:: true
+		- slang
 	- #card 在進行中的；活動者的 a_t
+	  collapsed:: true
+		- afoot
 	- #card 縱火(罪) a_n
+	  collapsed:: true
+		- arson
 	- #card 公墓；墓地 c_y
+	  collapsed:: true
+		- cemetery
 	- #card 交戰的；衝突的 w_g
+	  collapsed:: true
+		- warring
 	- #card 勒索；敲詐 e_n
+	  collapsed:: true
+		- extortion
 	- #card 走私；偷運 s_e
+	  collapsed:: true
+		- smuggle
 	- #card 特徵 c_c
+	  collapsed:: true
+		- characteristic
 	- #card 止住；管束；限制
+	  collapsed:: true
+		- rein in
 	- #card 日以繼夜的；全天候的
+	  collapsed:: true
+		- round-the-clock
 	- #card 不理會；摒棄；駁回 d_s
+	  collapsed:: true
+		- dismiss
 	- #card 裂縫；裂痕 c_k
+	  collapsed:: true
+		- crack
 	- #card 近距離平射的；直射的 p_k
+	  collapsed:: true
+		- point-blank
 	- #card 可疑的；半信半疑的 d_s
+	  collapsed:: true
+		- dubious
 	- #card 不祥的；威脅的 o_s
+	  collapsed:: true
+		- ominous
 	- #card 地方行政長官；地方法官 m_e
+	  collapsed:: true
+		- magistrate
 	- #card 多孔的；多漏洞的 p_s
+	  collapsed:: true
+		- porous
 	- #card 滲透作用的；吸收；同化 o_s
+	  collapsed:: true
+		- osmosis
 	- #card 中斷；打斷 i_n
+	  collapsed:: true
+		- interruption
 	- #card 開始意識到
+	  collapsed:: true
+		- wake up to
 	- #card 坐牢；在獄中
+	  collapsed:: true
+		- behind bars
 	- #card 公民的；平民的 c_l
+	  collapsed:: true
+		- civil
 	- #card 適宜居住的 l_e
+	  collapsed:: true
+		- livable
 	- #card 巡邏；巡查 p_l
+	  collapsed:: true
+		- patrol
 	- #card 檢查站；關卡 c_t
+	  collapsed:: true
+		- checkpoint
 	- #card 為…擔心；為…憂慮
-- # 2022 September
+	  collapsed:: true
+		- fear for
+- # [2022 September](https://qrcode.liveabc.com/magazine/c7d18566-51a8-47c8-b2cd-0dc94a6d0ff0)
+  collapsed:: true
+	- #card 管轄區域 j_n
+	- #card 很可能的 p_e
+	- #card 控制；遏止 c_n
+	- #card 超過；勝過 s_s
+	- #card 農人；農夫 p_t
+	- #card 本身；本質上 i_f
+	- #card 使…驚訝 b_y
+	- #card 意外發現 s_n
+	- #card 隱形的；看不見的 i_e
+	- #card 畫布；油畫布 c_s
+	- #card 失事船；沉船(殘骸) s_k
+	- #card 潛在；隱藏在 l_k
+	- #card 船；艦 v_l
+	- #card 有名的；有聲譽的 r_d
+	- #card 護航驅逐艦 d_t
+	- #card 驚人的；極大的 s_g
+	- #card 深不可測的 f_s
+	- #card 英勇行為 h_m
+	- #card

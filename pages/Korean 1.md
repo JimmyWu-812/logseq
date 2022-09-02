@@ -306,6 +306,7 @@
 	  card-last-interval:: 4
 	  card-ease-factor:: 2.6
 	  card-last-reviewed:: 2022-07-06T05:39:49.045Z
+	  collapsed:: true
 		- 저
 	- #card 先生、太太、小姐 (接在名字後用以稱呼別人)
 	  collapsed:: true
@@ -1563,6 +1564,7 @@
 	  card-last-score:: 3
 		- 동대문
 	- #card 食物
+	  collapsed:: true
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
@@ -1601,6 +1603,7 @@
 	  card-next-schedule:: 2022-07-23T16:00:00.000Z
 	  card-last-reviewed:: 2022-07-23T01:01:42.878Z
 	  card-last-score:: 1
+	  collapsed:: true
 		- 칠판
 - # 5
   collapsed:: true
@@ -1803,6 +1806,7 @@
 	  card-next-schedule:: 2022-07-26T14:25:51.179Z
 	  card-last-reviewed:: 2022-07-22T14:25:51.180Z
 	  card-last-score:: 5
+	  collapsed:: true
 		- 산물
 	- #card 洗臉
 	  collapsed:: true
@@ -2458,6 +2462,7 @@
 	  collapsed:: true
 		- 베이징
 	- #card 游泳池
+	  collapsed:: true
 		- 수영장
 	- #card 花
 	  collapsed:: true
@@ -2741,6 +2746,7 @@
 	  collapsed:: true
 		- 운동장
 	- #card ~號
+	  collapsed:: true
 		- 번
 	- #card 通常
 	  collapsed:: true
