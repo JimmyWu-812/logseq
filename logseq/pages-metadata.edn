@@ -225,7 +225,10 @@
   :block/updated-at 1662035355299}
  {:block/name "sep 2nd, 2022",
   :block/created-at 1662092739645,
-  :block/updated-at 1662092739645}
+  :block/updated-at 1662134946993}
+ {:block/name "sep 3rd, 2022",
+  :block/created-at 1662134402654,
+  :block/updated-at 1662134402654}
  {:block/name "todo",
   :block/created-at 1660103328750,
   :block/updated-at 1660103328750}
