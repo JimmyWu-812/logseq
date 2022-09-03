@@ -217,9 +217,6 @@
  {:block/name "now",
   :block/created-at 1660103328751,
   :block/updated-at 1660103328751}
- {:block/name "quota",
-  :block/created-at 1660103587978,
-  :block/updated-at 1660103587978}
  {:block/name "scholarship",
   :block/created-at 1660103576137,
   :block/updated-at 1660103576137}
@@ -231,7 +228,7 @@
   :block/updated-at 1662134946993}
  {:block/name "sep 3rd, 2022",
   :block/created-at 1662134402654,
-  :block/updated-at 1662189837163}
+  :block/updated-at 1662220527185}
  {:block/name "todo",
   :block/created-at 1660103328750,
   :block/updated-at 1660103328750}
