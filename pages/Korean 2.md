@@ -399,7 +399,6 @@
 	  collapsed:: true
 		- 콘서트
 - # 11
-  collapsed:: true
 	- #card 胸部
 	- #card 腿
 	- #card 頭
@@ -448,9 +447,16 @@
 	- #card 客人
 	- #card 明年
 	- #card 結婚
+	- #card 沒關係的
+	- #card 幸虧、幸好
+	- #card 勉強
+	- #card 生日 (敬語)
 	- #card 報告
+	- #card 繳(交)
+	- #card 睡覺，睡眠
 	  collapsed:: true
-		- 리포트
+		- 잠
+	- #card
 - # 12
 - # 13
 - # 14
