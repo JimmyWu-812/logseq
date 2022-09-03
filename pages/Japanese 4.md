@@ -1213,4 +1213,4 @@
 	  collapsed:: true
 		- 偉い　えらい　２
 -
-- ### Next: Japanese 5
+- ### Next: [[Japanese 5]]

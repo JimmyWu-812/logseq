@@ -1,4 +1,65 @@
 - # [2022 July](https://qrcode.liveabc.com/magazine/9b931a69-00da-43c0-b0df-b9376ef2b7de)
+  collapsed:: true
+	- #card 準…；推定的 p_e
+	  collapsed:: true
+		- presumptive
+	- #card 簇擁；蜂擁進入；成群圍住 m_b
+	  collapsed:: true
+		- mob
+	- #card 初步的 p_y
+	  collapsed:: true
+		- preliminary
+	- #card 同名的人事物 n_e
+	  collapsed:: true
+		- namesake
+	- #card 具重大影響力 l_e
+	  collapsed:: true
+		- loom large
+	- #card 戒嚴令 m_w
+	  collapsed:: true
+		- martial law
+	- #card 流亡；放逐 e_e
+	  collapsed:: true
+		- exile
+	- #card 墮胎 a_n
+	  collapsed:: true
+		- abortion
+	- #card 集會；大會 r_y
+	  collapsed:: true
+		- rally
+	- #card 草稿 d_t
+	  collapsed:: true
+		- draft
+	- #card 裁定無法律效力 s_n
+	  collapsed:: true
+		- strike down
+	- #card 推翻；顛覆；廢除 o_n
+	  collapsed:: true
+		- overturn
+	- #card 開創性的 g_g
+	  collapsed:: true
+		- groundbreaking
+	- #card 不正常的 a_l
+	  collapsed:: true
+		- abnormal
+	- #card 過度伸展 h_n
+	  collapsed:: true
+		- hyperextension
+	- #card 裝具；矯形學 o_s
+	  collapsed:: true
+		- orthotics
+	- #card 量身打造的 c_m
+	  collapsed:: true
+		- custom
+	- #card 義肢的 p_c
+	  collapsed:: true
+		- prosthetic
+	- #card 矯正器；[醫] 支架 b_e
+	  collapsed:: true
+		- brace
+	- #card (象、鯨等)幼獸；小牛 c_f
+	  collapsed:: true
+		- calf
 - # [2022 August](https://qrcode.liveabc.com/magazine/8af00811-2102-4fc4-b49e-3f4ad4608ea6)
   collapsed:: true
 	- #card 崩塌；陷落 c_n
@@ -872,21 +933,81 @@
 - # [2022 September](https://qrcode.liveabc.com/magazine/c7d18566-51a8-47c8-b2cd-0dc94a6d0ff0)
   collapsed:: true
 	- #card 管轄區域 j_n
+	  collapsed:: true
+		- jurisdiction
 	- #card 很可能的 p_e
+	  collapsed:: true
+		- probable
 	- #card 控制；遏止 c_n
+	  collapsed:: true
+		- contain
 	- #card 超過；勝過 s_s
+	  collapsed:: true
+		- surpass
 	- #card 農人；農夫 p_t
+	  collapsed:: true
+		- peasant
 	- #card 本身；本質上 i_f
+	  collapsed:: true
+		- in and of itself
 	- #card 使…驚訝 b_y
+	  collapsed:: true
+		- blow away
 	- #card 意外發現 s_n
+	  collapsed:: true
+		- stumble upon
 	- #card 隱形的；看不見的 i_e
+	  collapsed:: true
+		- invisible
 	- #card 畫布；油畫布 c_s
+	  collapsed:: true
+		- canvas
 	- #card 失事船；沉船(殘骸) s_k
+	  collapsed:: true
+		- shipwreck
 	- #card 潛在；隱藏在 l_k
+	  collapsed:: true
+		- lurk
 	- #card 船；艦 v_l
+	  collapsed:: true
+		- vessel
 	- #card 有名的；有聲譽的 r_d
+	  collapsed:: true
+		- renowned
 	- #card 護航驅逐艦 d_t
+	  collapsed:: true
+		- destroyer escort
 	- #card 驚人的；極大的 s_g
+	  collapsed:: true
+		- staggering
 	- #card 深不可測的 f_s
+	  collapsed:: true
+		- fathomless
 	- #card 英勇行為 h_m
+	  collapsed:: true
+		- heroism
+	- #card 東山再起；重整旗鼓 c_k
+	- #card 破壞；損傷；玷汙 m_r
+	- #card 挫折；挫敗 s_k
+	- #card 基石；最重要的部分 c_e
+	- #card 使甦醒；使恢復生機 r_e
+	- #card 黯淡的；無希望的 b_k
+	- #card 熔毀；熔解 m_n
+	- #card 全面檢查；徹底改革 o_l
+	- #card 刺激(物)；激勵(物) s_s
+	- #card 改革；重整 r_m
+	- #card 通貨緊縮 d_n
+	- #card 削減；削弱
+	- #card 重新解釋；重新詮釋 r_t
+	- #card 和平主義的 p_t
+	- #card 起草；草擬 d_t
+	- #card 神社；神龕 s_e
+	- #card 指控；譴責 a_e
+	- #card 殘暴的；野蠻的 b_l
+	- #card 暴跌；重挫 p_t
+	- #card 大眾的注意；能見度 p_e
+	- #card 盟國；盟友 a_y
+	- #card 修補；修理 m_d
+	- #card 嚴寒的；冷若冰霜的 f_y
+	- #card 熱情洋溢的；活力充沛的 v_t
 	- #card
