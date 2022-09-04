@@ -931,7 +931,6 @@
 	  collapsed:: true
 		- fear for
 - # [2022 September](https://qrcode.liveabc.com/magazine/c7d18566-51a8-47c8-b2cd-0dc94a6d0ff0)
-  collapsed:: true
 	- #card 管轄區域 j_n
 	  collapsed:: true
 		- jurisdiction
@@ -1010,4 +1009,36 @@
 	- #card 修補；修理 m_d
 	- #card 嚴寒的；冷若冰霜的 f_y
 	- #card 熱情洋溢的；活力充沛的 v_t
-	- #card
+	- #card 動盪的；騷亂的 t_s
+	- #card 統治；支配 r_n
+	- #card 任職期間 t_e
+	- #card 普通人；凡夫俗子 e_n
+	- #card 非正式；不拘禮節 i_y
+	- #card 是…的特色；定義 d_e
+	- #card 前任；前輩 p_r
+	- #card 菁英的；出類拔萃的 e_e
+	- #card 溫和派人士；溫和派 m_e
+	- #card 和藹可親的；容易親近的 a_e
+	- #card 狂歡作樂；嬉鬧 h_s
+	- #card 中止；暫停 s_d
+	- #card 使勁擠出；用強迫手段獲得 m_e
+	- #card 嚴重性；危險性；重大 g_y
+	- #card 起步；獲得經驗
+	- #card 正中要害；意識到情況嚴重
+	- #card 加護病房 i_e
+	- #card 放棄；拋棄 a_n
+	- #card 組織方法；管理體系；體系 r_e
+	- #card 指控；控訴 a_n
+	- #card 助理；副官；助手 a_e
+	- #card 授予…稱號；把…叫做 d_b
+	- #card 公務員 c_t
+	- #card 勉強承認；承認失敗 c_e
+	- #card 與死亡擦身而過
+	- #card 提出；推行
+	- #card 使垮台；使去職
+	- #card 顯露；浮現 s_e
+	- #card 不當行為 m_t
+	- #card 提倡者；擁護者 c_n
+	- #card 繁榮；成功 p_y
+	- #card 限於泥坑；陷入困境 m_e
+	- #card 使…承擔責任
