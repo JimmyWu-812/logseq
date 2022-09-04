@@ -931,6 +931,7 @@
 	  collapsed:: true
 		- fear for
 - # [2022 September](https://qrcode.liveabc.com/magazine/c7d18566-51a8-47c8-b2cd-0dc94a6d0ff0)
+  collapsed:: true
 	- #card 管轄區域 j_n
 	  collapsed:: true
 		- jurisdiction
@@ -986,29 +987,77 @@
 	  collapsed:: true
 		- heroism
 	- #card 東山再起；重整旗鼓 c_k
+	  collapsed:: true
+		- comeback
 	- #card 破壞；損傷；玷汙 m_r
+	  collapsed:: true
+		- mar
 	- #card 挫折；挫敗 s_k
+	  collapsed:: true
+		- setback
 	- #card 基石；最重要的部分 c_e
+	  collapsed:: true
+		- cornerstone
 	- #card 使甦醒；使恢復生機 r_e
+	  collapsed:: true
+		- revive
 	- #card 黯淡的；無希望的 b_k
+	  collapsed:: true
+		- bleak
 	- #card 熔毀；熔解 m_n
+	  collapsed:: true
+		- meltdown
 	- #card 全面檢查；徹底改革 o_l
+	  collapsed:: true
+		- overhaul
 	- #card 刺激(物)；激勵(物) s_s
+	  collapsed:: true
+		- stimulus
 	- #card 改革；重整 r_m
+	  collapsed:: true
+		- reform
 	- #card 通貨緊縮 d_n
+	  collapsed:: true
+		- deflation
 	- #card 削減；削弱
+	  collapsed:: true
+		- make a dent (in)
 	- #card 重新解釋；重新詮釋 r_t
+	  collapsed:: true
+		- reinterpret
 	- #card 和平主義的 p_t
+	  collapsed:: true
+		- pacifist
 	- #card 起草；草擬 d_t
+	  collapsed:: true
+		- draft
 	- #card 神社；神龕 s_e
+	  collapsed:: true
+		- shrine
 	- #card 指控；譴責 a_e
+	  collapsed:: true
+		- accuse
 	- #card 殘暴的；野蠻的 b_l
+	  collapsed:: true
+		- brutal
 	- #card 暴跌；重挫 p_t
+	  collapsed:: true
+		- plummet
 	- #card 大眾的注意；能見度 p_e
+	  collapsed:: true
+		- profile
 	- #card 盟國；盟友 a_y
+	  collapsed:: true
+		- ally
 	- #card 修補；修理 m_d
+	  collapsed:: true
+		- mend
 	- #card 嚴寒的；冷若冰霜的 f_y
+	  collapsed:: true
+		- frosty
 	- #card 熱情洋溢的；活力充沛的 v_t
+	  collapsed:: true
+		- vibrant
 	- #card 動盪的；騷亂的 t_s
 	- #card 統治；支配 r_n
 	- #card 任職期間 t_e

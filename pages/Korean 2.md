@@ -457,6 +457,22 @@
 	  collapsed:: true
 		- 잠
 	- #card
+	- #card 蔥
+	- #card 黏、貼
+	- #card 鹽水
+	- #card 漱口、沖
+	- #card 蘿蔔汁
+	- #card 感冒、身體不舒服
+	- #card 按摩
+	- #card 祝賀
+	  collapsed:: true
+		- 축하하다
+	- #card 真、實在、相當
+	  collapsed:: true
+		- 참
+	- #card 外國
+	  collapsed:: true
+		- 외국
 - # 12
 - # 13
 - # 14
