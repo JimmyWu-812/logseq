@@ -1284,7 +1284,7 @@
 	  card-last-reviewed:: 2022-07-23T01:12:20.615Z
 	  card-last-score:: 1
 		- 찜질방
-	- #card 網吧
+	- #card 網咖
 	  collapsed:: true
 	  card-last-interval:: 4
 	  card-repeats:: 1
@@ -1292,7 +1292,7 @@
 	  card-next-schedule:: 2022-07-27T00:55:29.819Z
 	  card-last-reviewed:: 2022-07-23T00:55:29.820Z
 	  card-last-score:: 3
-		- PC방
+		- 피시방
 	- #card 自助式洗衣店
 	  collapsed:: true
 	  card-last-interval:: -1

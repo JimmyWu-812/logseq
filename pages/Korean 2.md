@@ -399,6 +399,7 @@
 	  collapsed:: true
 		- 콘서트
 - # 11
+  collapsed:: true
 	- #card 胸部
 	- #card 腿
 	- #card 頭
@@ -456,7 +457,16 @@
 	- #card 睡覺，睡眠
 	  collapsed:: true
 		- 잠
-	- #card
+	- #card 鬧鐘
+	- #card 關(電器用品)
+	- #card 煩惱、擔心
+	- #card 發音
+	- #card 大嬸
+	  collapsed:: true
+		- 아주머니
+	- #card 網咖
+	- #card 吵架、打架
+	- #card 這樣地
 	- #card 蔥
 	- #card 黏、貼
 	- #card 鹽水
