@@ -427,7 +427,7 @@
 	- #card 漂亮的
 	- #card 信
 	- #card 寫
-	- #card 壞的
+	- #card 壞的、不好
 	- #card 抽菸
 	- #card 了解
 	- #card 遲到
@@ -483,6 +483,9 @@
 	- #card 外國
 	  collapsed:: true
 		- 외국
+	- #card 日記
+	- #card 一定
+	- #card
 - # 12
 - # 13
 - # 14
