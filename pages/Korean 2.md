@@ -443,7 +443,7 @@
 	  collapsed:: true
 		- 환자
 	- #card 洗
-	- #card 熱水
+	- #card 熱水、溫水
 	- #card 冰塊水
 	- #card 客人
 	- #card 明年
@@ -484,7 +484,17 @@
 	  collapsed:: true
 		- 외국
 	- #card 日記
+	  collapsed:: true
+		- 일기
 	- #card 一定
+	  collapsed:: true
+		- 꼭
+	- #card 停車
+	  collapsed:: true
+		- 주차하다
+	- #card 袋鼠
+	  collapsed:: true
+		- 캥거루
 	- #card
 - # 12
 - # 13
