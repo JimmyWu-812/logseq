@@ -495,7 +495,15 @@
 	- #card 袋鼠
 	  collapsed:: true
 		- 캥거루
-	- #card
+	- #card 飛機
+	  collapsed:: true
+		- 비행기
+	- #card 安全帶
+	  collapsed:: true
+		- 안전벨트
+	- #card 西裝
+	  collapsed:: true
+		- 양복
 - # 12
 - # 13
 - # 14
