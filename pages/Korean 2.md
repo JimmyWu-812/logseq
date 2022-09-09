@@ -401,79 +401,210 @@
 - # 11
   collapsed:: true
 	- #card 胸部
+	  collapsed:: true
+		- 가슴
 	- #card 腿
+	  collapsed:: true
+		- 다리
 	- #card 頭
+	  collapsed:: true
+		- 머리
 	- #card 脖子
+	  collapsed:: true
+		- 목
 	- #card 身體
+	  collapsed:: true
+		- 몸
 	- #card 膝蓋
+	  collapsed:: true
+		- 무릎
 	- #card 腳
+	  collapsed:: true
+		- 발
 	- #card 肚子
+	  collapsed:: true
+		- 배
 	- #card 手
+	  collapsed:: true
+		- 손
 	- #card 肩膀
+	  collapsed:: true
+		- 어깨
 	- #card 手臂
+	  collapsed:: true
+		- 팔
 	- #card 腰
+	  collapsed:: true
+		- 허리
 	- #card 耳朵
+	  collapsed:: true
+		- 귀
 	- #card 眼睛
+	  collapsed:: true
+		- 눈
 	- #card 臉
+	  collapsed:: true
+		- 얼굴
 	- #card 嘴巴
+	  collapsed:: true
+		- 입
 	- #card 鼻子
+	  collapsed:: true
+		- 코
 	- #card 咳嗽
+	  collapsed:: true
+		- 기침(을) 하다
 	- #card 喉嚨痛
+	  collapsed:: true
+		- 목이 아프다
 	- #card 發燒
+	  collapsed:: true
+		- 열이 나다
+		- 열이 있다
 	- #card 流鼻水
+	  collapsed:: true
+		- 콧물이 나다
 	- #card 痛的，不舒服的
+	  collapsed:: true
+		- 아프다
 	- #card 忙碌的
+	  collapsed:: true
+		- 바쁘다
 	- #card 肚子餓的
+	  collapsed:: true
+		- 배고프다
 	- #card 漂亮的
+	  collapsed:: true
+		- 예쁘다
 	- #card 信
+	  collapsed:: true
+		- 편지
 	- #card 寫
+	  collapsed:: true
+		- 쓰다
 	- #card 壞的、不好
+	  collapsed:: true
+		- 나쁘다
 	- #card 抽菸
+	  collapsed:: true
+		- 담배를 피우다
 	- #card 了解
+	  collapsed:: true
+		- 알겠다
 	- #card 遲到
+	  collapsed:: true
+		- 늦다
 	- #card 感冒
+	  collapsed:: true
+		- 감기에 걸리다
 	- #card 流行
+	  collapsed:: true
+		- 유행이다
 	- #card 藥
+	  collapsed:: true
+		- 약
 	- #card 好好休息
+	  collapsed:: true
+		- 푹 쉬다
 	- #card 說話
+	  collapsed:: true
+		- 말(을) 하다
 	- #card 許久地、長時間地
+	  collapsed:: true
+		- 오래
 	- #card 洗澡
+	  collapsed:: true
+		- 목욕하다
 	- #card 酒
+	  collapsed:: true
+		- 술
 	- #card 患者，病人
 	  collapsed:: true
 		- 환자
 	- #card 洗
+	  collapsed:: true
+		- 씻다
 	- #card 熱水、溫水
+	  collapsed:: true
+		- 따뜻한 물
 	- #card 冰塊水
+	  collapsed:: true
+		- 얼음 물
 	- #card 客人
+	  collapsed:: true
+		- 손님
 	- #card 明年
+	  collapsed:: true
+		- 내년
 	- #card 結婚
+	  collapsed:: true
+		- 결혼하다
 	- #card 沒關係的
+	  collapsed:: true
+		- 괜찮다
 	- #card 幸虧、幸好
+	  collapsed:: true
+		- 다행이다
 	- #card 勉強
+	  collapsed:: true
+		- 무리하다
 	- #card 生日 (敬語)
+	  collapsed:: true
+		- 생신
 	- #card 報告
+	  collapsed:: true
+		- 리포트
 	- #card 繳(交)
+	  collapsed:: true
+		- 내다
 	- #card 睡覺，睡眠
 	  collapsed:: true
 		- 잠
 	- #card 鬧鐘
+	  collapsed:: true
+		- 알람
 	- #card 關(電器用品)
+	  collapsed:: true
+		- 끄다
 	- #card 煩惱、擔心
+	  collapsed:: true
+		- 걱정
 	- #card 發音
+	  collapsed:: true
+		- 발음
 	- #card 大嬸
 	  collapsed:: true
 		- 아주머니
 	- #card 網咖
+	  collapsed:: true
+		- 피시방
 	- #card 吵架、打架
+	  collapsed:: true
+		- 싸우다
 	- #card 這樣地
+	  collapsed:: true
+		- 이렇게
 	- #card 蔥
+	  collapsed:: true
+		- 파
 	- #card 黏、貼
+	  collapsed:: true
+		- 붙이다
 	- #card 鹽水
+	  collapsed:: true
+		- 소금물
 	- #card 漱口、沖
+	  collapsed:: true
+		- 헹구다
 	- #card 蘿蔔汁
+	  collapsed:: true
+		- 무즙
 	- #card 感冒、身體不舒服
+	  collapsed:: true
+		- 몸살
 	- #card 按摩
+	  collapsed:: true
+		- 마사지하다
 	- #card 祝賀
 	  collapsed:: true
 		- 축하하다
