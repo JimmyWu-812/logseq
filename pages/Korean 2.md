@@ -274,7 +274,6 @@
 	  collapsed:: true
 		- 청소하다
 	- #card 用電腦
-	  collapsed:: true
 		- 컴퓨터를 하다
 	- #card 開會
 	  collapsed:: true
@@ -636,6 +635,22 @@
 	  collapsed:: true
 		- 양복
 - # 12
+  collapsed:: true
+	- #card 零
+	- #card 不好意思，請問哪裡找？
+	- #card 喂
+	- #card 電話號碼
+	- #card 手機號碼
+	- #card 收簡訊
+	- #card 傳簡訊
+	- #card 接電話
+	- #card 打電話
+	- #card 正確，對，沒錯
+		- 맞다
+	- #card 是的、沒錯
+	- #card 大阪
+		- 오사카
+	- #card
 - # 13
 - # 14
 - # 15
