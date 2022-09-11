@@ -646,10 +646,26 @@
 	- #card 接電話
 	- #card 打電話
 	- #card 正確，對，沒錯
+	  collapsed:: true
 		- 맞다
 	- #card 是的、沒錯
 	- #card 大阪
+	  collapsed:: true
 		- 오사카
+	- #card 好久不見
+	- #card 事情
+	- #card 辦公室
+	- #card 不會、不客氣
+	- #card 不好吃的
+	- #card 嘈雜的、吵鬧的
+	  collapsed:: true
+		- 시끄럽다
+	- #card 為什麼
+	- #card 不久前
+	- #card 錢
+	  collapsed:: true
+		- 돈
+	- #card 睡過頭
 	- #card
 - # 13
 - # 14
