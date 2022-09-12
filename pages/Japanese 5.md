@@ -1,6 +1,54 @@
 - ### Previous: [[Japanese 4]]
 -
 - # 27
+  collapsed:: true
+	- #card 罕見的；珍奇的；新穎的
+	- #card 通學
+	- #card 新發售
+	- #card 104，查號臺
+	- #card 實力
+	- #card 積，存；積壓
+	- #card [略語] 迪斯可舞廳
+	- #card 勇氣
+	- #card 告白，坦白
+	- #card 挑戰
+	- #card 煩惱，苦惱
+	- #card 高級
+	- #card 澳大利亞，澳洲
+	- #card 商品
+	- #card 檢定
+	- #card 簽約
+	- #card 祕密
+	- #card 好不容易，難得；特意地
+	- #card 錯誤，出錯；　搞錯，弄錯
+	- #card 紙幣，鈔票
+	- #card 晒，晾；弄乾
+	- #card 臉色
+	- #card 適合；一致，符合
+	- #card 輟學，退學
+	- #card 離婚
+	- #card 訂購；要求，希望
+	- #card 飲料
+	- #card 食具，餐具
+	- #card 茶點
+	- #card 人數
+	- #card 準備
+	- #card 拭，擦拭
+	- #card 日常，平日 (日常會話)
+	- #card 更新，換新；刷新(紀錄等)
+	- #card 習慣
+	- #card 氣候
+	- #card 管理 (健康保健)
+	- #card 辛勞；操心，費心
+	- #card 確實地；規矩地
+	- #card 腐壞，腐爛
+	- #card 冷凍庫
+	- #card 方便(與否)；情況
+	- #card (表示重複某一固定的數量)
+	- #card 口信，留言
+	- #card 觀光勝地
+	- #card 消息，資訊
+	- #card 氣溫
 - # 28
 - # 29
 - # 30

@@ -666,6 +666,13 @@
 	  collapsed:: true
 		- 돈
 	- #card 睡過頭
+	- #card 職員
+		- 직원
+	- #card 旅行社
+	- #card 剛才、剛剛
+	- #card 當然
+	- #card 等會兒
+	- #card 其他的
 	- #card
 - # 13
 - # 14

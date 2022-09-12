@@ -983,6 +983,7 @@
 	  card-last-score:: 5
 		- 結婚する　けっこんする　０　自スル
 	- #card 等，等待
+	  collapsed:: true
 		- 待つ　まつ　１　他五
 		- https://kakijun.jp/gif-mini/0961200-m.gif
 	- #card 急，趕快
@@ -1004,6 +1005,7 @@
 	  card-last-score:: 5
 		- 知る　しる　０　他五
 	- #card 研究所(供修讀碩、博士課程之學術機構)
+	  collapsed:: true
 		- 大学院　だいがくいん　４
 	- #card 經濟
 	  collapsed:: true
@@ -1033,6 +1035,7 @@
 	  collapsed:: true
 		- 新聞社　しんぶんしゃ　３
 	- #card 研究所(研究專門學科的學術機構)
+	  collapsed:: true
 		- 研究所　けんきゅうじょ　０
 		- https://kakijun.jp/gif-mini/08118200-m.gif
 	- #card 附近
