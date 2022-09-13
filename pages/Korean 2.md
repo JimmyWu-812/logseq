@@ -667,12 +667,25 @@
 		- 돈
 	- #card 睡過頭
 	- #card 職員
+	  collapsed:: true
 		- 직원
 	- #card 旅行社
 	- #card 剛才、剛剛
 	- #card 當然
 	- #card 等會兒
 	- #card 其他的
+	- #card 惴惴不安，惶恐不安
+	  collapsed:: true
+		- 죄송하다
+	- #card 賓館，飯店，酒店
+	  collapsed:: true
+		- 호텔
+	- #card 這個嘛，這個呀，難說，不清楚，哎呀，是啊，是呀
+	  collapsed:: true
+		- 글쎄요
+	- #card 週，星期
+	  collapsed:: true
+		- 주
 	- #card
 - # 13
 - # 14
