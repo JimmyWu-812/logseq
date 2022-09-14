@@ -152,6 +152,42 @@
 	  collapsed:: true
 		- 気温　きおん　０
 - # 28
+  collapsed:: true
+	- #card 釣魚
+	- #card 高興，喜悅
+	- #card 消失；盡，光；丟失
+	- #card 迷路；猶豫，迷惑
+	- #card 如果，假使，萬一
+	- #card 理解，領會；體諒
+	- #card 地下道
+	- #card 體力
+	- #card 戰爭，打仗
+	- #card 和平；和睦
+	- #card 醒，清醒
+	- #card (時間、空間等) 經過；超過
+	- #card 紅葉 (槭、楓)
+	- #card 比一般人更~
+	- #card 完全
+	- #card 淚
+	- #card 手術
+	- #card 化妝品
+	- #card 詳細的；熟諳的
+	- #card 夠，足夠
+	- #card 出席
+	- #card 操作，操縱
+	- #card 重要的
+	- #card ~錢，~費用
+	- #card 金融機構轉帳代繳
+	- #card 那樣的話
+	- #card 有線電視
+	- #card 加入，參加
+	- #card 當日票
+	- #card 券，票
+	- #card 賣完，銷售一空
+	- #card (電影院、舞廳等的)女性優惠日
+	- #card 午夜場
+	- #card 女性
+	- #card 以後~
 - # 29
 - # 30
 - # 31
