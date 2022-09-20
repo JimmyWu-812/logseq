@@ -503,7 +503,6 @@
 	  collapsed:: true
 		- 약
 	- #card 好好休息
-	  collapsed:: true
 		- 푹 쉬다
 	- #card 說話
 	  collapsed:: true
@@ -686,7 +685,33 @@
 	- #card 週，星期
 	  collapsed:: true
 		- 주
-	- #card
+	- #card 全部
+	- #card 場所
+	- #card 因為不知道
+	- #card (定好的)日期，日子；(某一)天
+	  collapsed:: true
+		- 날짜
+	- #card 辦公室
+	  collapsed:: true
+		- 사무실
+	- #card 地址，住所
+	  collapsed:: true
+		- 주소
+	- #card 遭小偷
+	- #card 發生意外
+	- #card 失火
+	- #card 可可
+	  collapsed:: true
+		- 코코아
+	- #card 那位
+	  collapsed:: true
+		- 저분
+	- #card 找
+	  collapsed:: true
+		- 찾다
+	- #card 昨晚
+	  collapsed:: true
+		- 어젯밤
 - # 13
 - # 14
 - # 15

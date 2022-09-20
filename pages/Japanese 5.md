@@ -154,40 +154,114 @@
 - # 28
   collapsed:: true
 	- #card 釣魚
+	  collapsed:: true
+		- 釣り　つり　０
 	- #card 高興，喜悅
+	  collapsed:: true
+		- 喜ぶ　よろこぶ　３　自他五
 	- #card 消失；盡，光；丟失
+	  collapsed:: true
+		- 無くなる　なくなる　０　自五
 	- #card 迷路；猶豫，迷惑
+	  collapsed:: true
+		- 迷う　まよう　２　自五
 	- #card 如果，假使，萬一
+	  collapsed:: true
+		- もし　１
 	- #card 理解，領會；體諒
+	  collapsed:: true
+		- 理解する　りかいする　１　他スル
 	- #card 地下道
+	  collapsed:: true
+		- 地下道　ちかどう　２、０
 	- #card 體力
+	  collapsed:: true
+		- 体力　たいりょく　１
 	- #card 戰爭，打仗
+	  collapsed:: true
+		- 戦争　せんそう　０
 	- #card 和平；和睦
+	  collapsed:: true
+		- 平和　へいわ　０
 	- #card 醒，清醒
+	  collapsed:: true
+		- 覚める　さめる　２　自下一
 	- #card (時間、空間等) 經過；超過
+	  collapsed:: true
+		- 過ぎる　すぎる　２　自上一
 	- #card 紅葉 (槭、楓)
+	  collapsed:: true
+		- 紅葉　こうよう　０
+		- https://kakijun.jp/gif-mini/09176200-m.gif
+		- https://kakijun.jp/gif-mini/1257200-m.gif
 	- #card 比一般人更~
+	  collapsed:: true
+		- 人一倍　ひといちばい　０、４
 	- #card 完全
+	  collapsed:: true
+		- 完全（だ）　かんぜん（だ）　０
 	- #card 淚
+	  collapsed:: true
+		- 涙　なみだ　１
 	- #card 手術
+	  collapsed:: true
+		- 手術　しゅじゅつ　１
 	- #card 化妝品
+	  collapsed:: true
+		- 化粧品　けしょうひん　０
 	- #card 詳細的；熟諳的
+	  collapsed:: true
+		- 詳しい　くわしい　３
 	- #card 夠，足夠
+	  collapsed:: true
+		- 足りる　たりる　０　自上一
 	- #card 出席
+	  collapsed:: true
+		- 出席する　しゅっせきする　０　自スル
 	- #card 操作，操縱
+	  collapsed:: true
+		- 操作　そうさ　１
 	- #card 重要的
+	  collapsed:: true
+		- 大事（だ）　だいじ（だ）　３、０
 	- #card ~錢，~費用
+	  collapsed:: true
+		- ～代　～だい　０
 	- #card 金融機構轉帳代繳
+	  collapsed:: true
+		- 引き落とし　ひきおとし　０
+		- https://kakijun.jp/gif-mini/1258200-m.gif
 	- #card 那樣的話
+	  collapsed:: true
+		- それなら　３
 	- #card 有線電視
+	  collapsed:: true
+		- ケーブルテレビ　５
 	- #card 加入，參加
+	  collapsed:: true
+		- 加入する　かにゅうする　０　自スル
 	- #card 當日票
+	  collapsed:: true
+		- 当日券　とうじつけん　４
 	- #card 券，票
+	  collapsed:: true
+		- 券　けん　１
 	- #card 賣完，銷售一空
+	  collapsed:: true
+		- 売り切れる　うりきれる　４　自下一
+		- https://kakijun.jp/gif-mini/0427200-m.gif
 	- #card (電影院、舞廳等的)女性優惠日
+	  collapsed:: true
+		- レディースデー　４
 	- #card 午夜場
+	  collapsed:: true
+		- レイトショー　３
 	- #card 女性
+	  collapsed:: true
+		- 女性　じょせい　０
 	- #card 以後~
+	  collapsed:: true
+		- 以降　いこう　１
 - # 29
 - # 30
 - # 31
