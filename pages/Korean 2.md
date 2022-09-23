@@ -636,43 +636,89 @@
 - # 12
   collapsed:: true
 	- #card 零
+	  collapsed:: true
+		- 공
 	- #card 不好意思，請問哪裡找？
+	  collapsed:: true
+		- 실례지만 누구세요?
 	- #card 喂
+	  collapsed:: true
+		- 여보세요?
 	- #card 電話號碼
+	  collapsed:: true
+		- 전화번호
 	- #card 手機號碼
+	  collapsed:: true
+		- 휴대폰 번호
 	- #card 收簡訊
+	  collapsed:: true
+		- 문자를 받다
 	- #card 傳簡訊
+	  collapsed:: true
+		- 문자를 보내다
 	- #card 接電話
+	  collapsed:: true
+		- 전화를 받다
 	- #card 打電話
+	  collapsed:: true
+		- 전화(를) 하다
 	- #card 正確，對，沒錯
 	  collapsed:: true
 		- 맞다
 	- #card 是的、沒錯
+	  collapsed:: true
+		- 그렇습니다
 	- #card 大阪
 	  collapsed:: true
 		- 오사카
 	- #card 好久不見
+	  collapsed:: true
+		- 오랜만이에요
 	- #card 事情
+	  collapsed:: true
+		- 일
 	- #card 辦公室
+	  collapsed:: true
+		- 사무실
 	- #card 不會、不客氣
+	  collapsed:: true
+		- 뭘요
 	- #card 不好吃的
+	  collapsed:: true
+		- 맛없다
 	- #card 嘈雜的、吵鬧的
 	  collapsed:: true
 		- 시끄럽다
 	- #card 為什麼
+	  collapsed:: true
+		- 왜
 	- #card 不久前
+	  collapsed:: true
+		- 조금 전
 	- #card 錢
 	  collapsed:: true
 		- 돈
 	- #card 睡過頭
+	  collapsed:: true
+		- 늦잠
 	- #card 職員
 	  collapsed:: true
 		- 직원
 	- #card 旅行社
+	  collapsed:: true
+		- 여행사
 	- #card 剛才、剛剛
+	  collapsed:: true
+		- 아까
 	- #card 當然
+	  collapsed:: true
+		- 그럼요
 	- #card 等會兒
+	  collapsed:: true
+		- 이따
 	- #card 其他的
+	  collapsed:: true
+		- 다른
 	- #card 惴惴不安，惶恐不安
 	  collapsed:: true
 		- 죄송하다
@@ -686,20 +732,29 @@
 	  collapsed:: true
 		- 주
 	- #card 全部
-	- #card 場所
+	  collapsed:: true
+		- 다
+	- #card 場所、地點
+	  collapsed:: true
+		- 장소
 	- #card 因為不知道
+	  collapsed:: true
+		- 몰라서
 	- #card (定好的)日期，日子；(某一)天
 	  collapsed:: true
 		- 날짜
-	- #card 辦公室
-	  collapsed:: true
-		- 사무실
 	- #card 地址，住所
 	  collapsed:: true
 		- 주소
 	- #card 遭小偷
+	  collapsed:: true
+		- 도둑이 들다
 	- #card 發生意外
+	  collapsed:: true
+		- 사고가 나다
 	- #card 失火
+	  collapsed:: true
+		- 불이 나다
 	- #card 可可
 	  collapsed:: true
 		- 코코아
@@ -713,6 +768,33 @@
 	  collapsed:: true
 		- 어젯밤
 - # 13
+  collapsed:: true
+	- #card 火車
+	- #card 船
+	- #card 公車
+	- #card 飛機
+	- #card 摩托車
+	- #card 腳踏車
+	- #card 地鐵
+	- #card 計程車
+	- #card 轉乘
+	- #card 下車
+	- #card 搭乘
+	- #card 客運總站
+	- #card 火車站
+	- #card 公車站
+	- #card 地鐵站
+	- #card 票，券
+	  collapsed:: true
+		- 표
+	- #card 遠的
+	- #card 小時 (量詞)
+	- #card 多少(錢、距離、數量、時間)
+	- #card 花(時間)
+	- #card 墨西哥
+	  collapsed:: true
+		- 멕시코
+	- #card
 - # 14
 - # 15
 - # 16
