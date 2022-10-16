@@ -768,7 +768,6 @@
 	  collapsed:: true
 		- 어젯밤
 - # 13
-  collapsed:: true
 	- #card 火車
 	- #card 船
 	- #card 公車
@@ -794,7 +793,56 @@
 	- #card 墨西哥
 	  collapsed:: true
 		- 멕시코
-	- #card
+	- #card 了解、打聽
+	- #card 蒙古
+	- #card 關(門，窗)
+	- #card 幫忙
+	- #card 黑板
+	- #card 哭
+	- #card 剪刀石頭布
+	- #card 直直地
+	- #card 首爾站
+	- #card 外國人
+	- #card 韓語
+	- #card 還…、尚…
+	- #card 停(車)
+	- #card 慶州
+	- #card 仁川港
+	- #card 濟州島
+	  collapsed:: true
+		- 제주도
+	- #card 金浦機場
+	- #card 交通號誌
+	- #card 入口
+	  collapsed:: true
+		- 입구
+	- #card 正門
+	- #card (幾)號線
+	- #card 不久前
+	- #card 救護車
+	- #card 隔天
+	- #card 換乘
+	  collapsed:: true
+		- 환승
+	- #card 張 (量詞)
+	  collapsed:: true
+		- 장
+	- #card 方便的
+	- #card 使用
+	- #card 費用
+	- #card 裡面
+	- #card 那麼
+	- #card 減價、折扣
+	- #card 或
+	- #card 單字
+	  collapsed:: true
+		- 단어
+	- #card 螃蟹
+	  collapsed:: true
+		- 게
+	- #card 右邊
+	  collapsed:: true
+		- 오른쪽
 - # 14
 - # 15
 - # 16
