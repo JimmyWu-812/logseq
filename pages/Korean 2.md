@@ -768,59 +768,142 @@
 	  collapsed:: true
 		- 어젯밤
 - # 13
+  collapsed:: true
 	- #card 火車
+	  collapsed:: true
+		- 기차
 	- #card 船
+	  collapsed:: true
+		- 배
 	- #card 公車
+	  collapsed:: true
+		- 버스
 	- #card 飛機
+	  collapsed:: true
+		- 비행기
 	- #card 摩托車
+	  collapsed:: true
+		- 오토바이
 	- #card 腳踏車
+	  collapsed:: true
+		- 자전거
 	- #card 地鐵
+	  collapsed:: true
+		- 지하철
 	- #card 計程車
+	  collapsed:: true
+		- 택시
 	- #card 轉乘
+	  collapsed:: true
+		- 갈아타다
 	- #card 下車
+	  collapsed:: true
+		- 내리다
 	- #card 搭乘
+	  collapsed:: true
+		- 타다
 	- #card 客運總站
+	  collapsed:: true
+		- 고속버스 터미널
 	- #card 火車站
+	  collapsed:: true
+		- 기차역
 	- #card 公車站
+	  collapsed:: true
+		- 버스 정류장
 	- #card 地鐵站
+	  collapsed:: true
+		- 지하철역
 	- #card 票，券
 	  collapsed:: true
 		- 표
 	- #card 遠的
+	  collapsed:: true
+		- 멀다
 	- #card 小時 (量詞)
+	  collapsed:: true
+		- 시간
 	- #card 多少(錢、距離、數量、時間)
+	  collapsed:: true
+		- 얼마나
 	- #card 花(時間)
+	  collapsed:: true
+		- 걸리다
 	- #card 墨西哥
 	  collapsed:: true
 		- 멕시코
 	- #card 了解、打聽
+	  collapsed:: true
+		- 알아보다
 	- #card 蒙古
+	  collapsed:: true
+		- 몽골
 	- #card 關(門，窗)
+	  collapsed:: true
+		- 닫다
 	- #card 幫忙
+	  collapsed:: true
+		- 돕다
 	- #card 黑板
+	  collapsed:: true
+		- 칠판
 	- #card 哭
+	  collapsed:: true
+		- 울다
 	- #card 剪刀石頭布
+	  collapsed:: true
+		- 가위바위보
 	- #card 直直地
+	  collapsed:: true
+		- 쭉
 	- #card 首爾站
+	  collapsed:: true
+		- 서울역
 	- #card 外國人
+	  collapsed:: true
+		- 외국인
 	- #card 韓語
+	  collapsed:: true
+		- 한국말
 	- #card 還…、尚…
+	  collapsed:: true
+		- 아직
 	- #card 停(車)
+	  collapsed:: true
+		- 세우다
 	- #card 慶州
+	  collapsed:: true
+		- 경주
 	- #card 仁川港
+	  collapsed:: true
+		- 인천항 터미널
 	- #card 濟州島
 	  collapsed:: true
 		- 제주도
 	- #card 金浦機場
+	  collapsed:: true
+		- 김포공항
 	- #card 交通號誌
+	  collapsed:: true
+		- 신호등
 	- #card 入口
 	  collapsed:: true
 		- 입구
 	- #card 正門
+	  collapsed:: true
+		- 정문
 	- #card (幾)號線
+	  collapsed:: true
+		- 호선
 	- #card 不久前
+	  collapsed:: true
+		- 얼마 전
 	- #card 救護車
+	  collapsed:: true
+		- 구급차
 	- #card 隔天
+	  collapsed:: true
+		- 다음 날
 	- #card 換乘
 	  collapsed:: true
 		- 환승
@@ -828,12 +911,26 @@
 	  collapsed:: true
 		- 장
 	- #card 方便的
+	  collapsed:: true
+		- 편리하다
 	- #card 使用
+	  collapsed:: true
+		- 사용하다
 	- #card 費用
+	  collapsed:: true
+		- 요금
 	- #card 裡面
+	  collapsed:: true
+		- 안에
 	- #card 那麼
+	  collapsed:: true
+		- 그러면
 	- #card 減價、折扣
+	  collapsed:: true
+		- 깎다
 	- #card 或
+	  collapsed:: true
+		- 나
 	- #card 單字
 	  collapsed:: true
 		- 단어
