@@ -1851,7 +1851,7 @@
 	  card-last-reviewed:: 2022-07-22T14:25:51.180Z
 	  card-last-score:: 5
 	  collapsed:: true
-		- 산물
+		- 선물
 	- #card 洗臉
 	  collapsed:: true
 		- 세수하다

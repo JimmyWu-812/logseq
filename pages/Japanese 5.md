@@ -263,9 +263,365 @@
 	  collapsed:: true
 		- 以降　いこう　１
 - # 29
+  collapsed:: true
+	- #card 馬上，眼看就要
+	  collapsed:: true
+		- 今にも　いまにも　１
+	- #card 只，僅，淨
+	  collapsed:: true
+		- ～ばかり
+	- #card 上升；登，爬
+	  collapsed:: true
+		- 上がる　あがる　０　自五
+	- #card 材料
+	  collapsed:: true
+		- 材料　ざいりょう　３
+	- #card 剩餘；留下
+	  collapsed:: true
+		- 残る　のこる　２　自五
+	- #card 增加，增多
+	  collapsed:: true
+		- 増える　ふえる　２　自下一
+	- #card 擁擠
+	  collapsed:: true
+		- 混む　こむ　１　自五
+		- 込む　こむ　１　自五
+	- #card 才能
+	  collapsed:: true
+		- 才能　さいのう　０
+	- #card 幸福
+	  collapsed:: true
+		- 幸せ（だ）　しあわせ（だ）　０
+	- #card 為什麼
+	  collapsed:: true
+		- 何で　なんで　１
+	- #card 爭吵，吵架
+	  collapsed:: true
+		- けんかする　０　自スル
+	- #card 功能，機能
+	  collapsed:: true
+		- 機能　きのう　１
+	- #card 花花公子，花心大蘿蔔
+	  collapsed:: true
+		- プレイボーイ　４
+		- プレーボーイ　４
+	- #card (交通)阻塞；遲滯
+	  collapsed:: true
+		- 渋滞　じゅうたい　０
+		- ![image.png](../assets/image_1668349256747_0.png)
+	- #card 全~
+	  collapsed:: true
+		- 全～　ぜん～
+	- #card 財產
+	  collapsed:: true
+		- 財産　ざいさん　１
+	- #card 上司
+	  collapsed:: true
+		- 上司　じょうし　１
+	- #card 錯失，錯過
+	  collapsed:: true
+		- 逃す　のがす　２　他五
+	- #card 保護 (保護大自然)
+	  collapsed:: true
+		- 保護（自然保護）　ほご（しぜんほご）　１（４）
+		- https://kakijun.jp/gif-mini/2009200-m.gif
+	- #card 存款，儲蓄
+	  collapsed:: true
+		- 貯金する　ちょきんする　０　自他スル
+	- #card (精神)壓力
+	  collapsed:: true
+		- ストレス　２
+	- #card 解除
+	  collapsed:: true
+		- 解消する　かいしょうする　０　他スル
+	- #card 求婚
+	  collapsed:: true
+		- プロポーズする　３　自スル
+	- #card 不足 (運動不足)
+	  collapsed:: true
+		- 不足（運動不足）　ふそく（うんどうぶそく）　０（５）
+	- #card 內容
+	  collapsed:: true
+		- 内容　ないよう　０
+	- #card 文法
+	  collapsed:: true
+		- 文法　ぶんぽう　０
+	- #card 體重
+	  collapsed:: true
+		- 体重　たいじゅう　０
+	- #card 公斤
+	  collapsed:: true
+		- キロ　１
+		- キログラム　３
+	- #card 頭痛
+	  collapsed:: true
+		- 頭痛　ずつう　０
+	- #card 果然；畢竟還是
+	  collapsed:: true
+		- やっぱり　３
+		- やはり　２
+	- #card 鹽
+	  collapsed:: true
+		- 塩　しお　２
+	- #card (佐飯的)菜餚
+	  collapsed:: true
+		- おかず　０
+	- #card 胡椒
+	  collapsed:: true
+		- こしょう　２
+	- #card 量，數量，分量
+	  collapsed:: true
+		- 量　りょう　１
+	- #card 失戀
+	  collapsed:: true
+		- 失恋　しつれん　０
+	- #card (精神)打擊，衝擊；撞擊，震動
+	  collapsed:: true
+		- ショック　１
+	- #card 心，精神，神志
+	  collapsed:: true
+		- 気　き　０
+	- #card 細的，纖細的
+	  collapsed:: true
+		- 細い　ほそい　２
+		- https://kakijun.jp/gif-mini/11183200-m.gif
+	- #card 外表，姿態
+	  collapsed:: true
+		- 格好　かっこう　０
+	- #card 上次
+	  collapsed:: true
+		- 前回　ぜんかい　１
+	- #card 下次
+	  collapsed:: true
+		- 次回　じかい　１
+	- #card 說話聲
+	  collapsed:: true
+		- 話し声　はなしごえ　４
+	- #card 宿醉
+	  collapsed:: true
+		- 二日酔い　ふつかよい　０
+	- #card (童話人物)小紅帽
+	  collapsed:: true
+		- 赤ずきんちゃん　あかずきんちゃん　３
+	- #card (童話人物)大野狼；狼
+	  collapsed:: true
+		- おおかみ　１
+	- #card 你 (男性稱親近的同輩、晚輩)
+	  collapsed:: true
+		- お前　おまえ　０
+	- #card 嘴巴
+	  collapsed:: true
+		- 口　くち　０
+	- #card 啊~！(尖叫聲)
+	  collapsed:: true
+		- キャーッ　１
 - # 30
+  collapsed:: true
+	- #card 讚揚，稱讚，褒獎
+	- #card 嚼；咬
+	- #card 愛，喜愛
+	- #card 警察
+	- #card 救助，幫助
+	- #card 父母
+	- #card 拍，敲打，攻訐
+	- #card 高中生
+	- #card 犯人
+	- #card 揪住，抓住；捕捉
+	- #card 問，打聽
+	- #card 吃醋，爭風吃醋
+	- #card 喪，死了
+	- #card 養育；教育，培養
+	- #card 半夜
+	- #card 近處，附近，近鄰
+	- #card 正直，誠實
+	- #card 信賴
+	- #card 課長，科長
+	- #card 看家，看門；看門的人
+	- #card 哭，哭泣
+	- #card 打開；開始，開設；舉辦
+	- #card 驚訝，驚嘆，出乎意料
+	- #card 抄，謄寫；拍照
+	- #card 包，包起來
+	- #card 偷竊
+	- #card 輸入，進口
+	- #card 發現
+	- #card 發明
+	- #card 斟，倒入
+	- #card 小偷，賊
+	- #card 失敗
+	- #card 發音
+	- #card 肩膀
+	- #card 撫摸
+	- #card 前輩，先進；學長，學姊
+	- #card 大聲
+	- #card 無顏見人的；害羞的
+	- #card 吃驚，嚇一跳
+	- #card 慌張；急忙
+	- #card 偷，扒竊
+	- #card 吠，咆哮
+	- #card 有人飼養的狗
+	- #card 逃跑，逃走
+	- #card 蜜蜂
+	- #card 叮，螫；刺，扎
+	- #card 突然，忽然
+	- #card 腫，腫脹
+	- #card 倒，跌倒
+	- #card 用力搔，抓
+	- #card 客滿，額滿
+	- #card (從高處、交通工具)下來
+	- #card 可憐的
+	- #card 非常
+	- #card 母親
+	- #card 哈啾！(打噴嚏的聲音)
+	- #card 唉呀！(表示難為情、驚訝、感動)
+	- #card 口罩；面具
+	- #card 感冒藥
+	- #card 使離開
+	- #card 手臂，胳膊
+	- #card 右手
+	- #card 高明的，美味的
+	- #card 如果，萬一
+	- #card 討厭的，不喜歡的
+	- #card 當然，不用說
+	- #card 醉漢，醉鬼
+	- #card 突然，冷不防地
+	- #card 揍，毆打
+	- #card 拒絕，甩；搖，揮；撒(鹽等)
+	- #card 參考
+	- #card 110(報警專用電話號碼)
+	- #card 站務人員
+	- #card 還手
+	- #card 飼主
+	- #card 嫌惡，厭惡
+	- #card 理由
 - # 31
+  collapsed:: true
+	- #card 昨夜，昨晚
+	- #card 鑽石
+	- #card 寺廟，寺院
+	- #card 僧
+	- #card 舉行；實施，進行
+	- #card ~般，帶有~性質的
+	- #card 歷史性的，有歷史意義的；歷史的
+	- #card 遺產
+	- #card 相片集，寫真集
+	- #card 出版
+	- #card 廣播，播送
+	- #card 製品，成品
+	- #card 輸出，出口
+	- #card 石油
+	- #card 中東
+	- #card 古典
+	- #card 文學
+	- #card 研究
+	- #card ~會，~組織 (運動會)
+	- #card 半年
+	- #card 每~；每當~
+	- #card 新~ (新製品，新產品)
+	- #card 開發；研製
+	- #card 乳酪，起司
+	- #card 油
+	- #card 美乃滋
+	- #card (男性)襯衫
+	- #card 大豆，黃豆
+	- #card 醬油
+	- #card 硬紙板，瓦楞紙
+	- #card 這些
+	- #card 家具
+	- #card 糖，麥芽糖；糖果
+	- #card 世界盃，世界運動會
+	- #card 舉辦，召開
+	- #card 奧運，奧林匹克運動會
+	- #card 希臘
+	- #card (希臘首都) 雅典
+	- #card 回憶
+	- #card 關閉，封閉
+	- #card 多，許多；大部分，大多數
+	- #card 人們
+	- #card 地域，地區
+	- #card 住民，居民
+	- #card 教會，教堂
+	- #card 作曲
+	- #card 諾貝爾獎
+	- #card 作家
+	- #card 亞洲
+	- #card 各國，諸國
+	- #card 米
+	- #card 附~，附有~
+	- #card (電影)導演；教練
+	- #card 評價；估價，估計
+	- #card 音樂廳
+	- #card 公開
+	- #card 展覽會
+	- #card 的確，誠然，果然
+	- #card 會館
+	- #card 珠寶店
+	- #card 店長
+	- #card 金庫，保險箱
+	- #card 億
+	- #card 被抓，被捕獲
+	- #card 文化
+	- #card 聯合國教育科學文化組織
+	- #card 保護
+	- #card 而且，再加上
+	- #card 登記，註冊
+	- #card ~處，~個，~個部分
+	- #card 濕透，淋濕
+	- #card 酒糟
+	- #card 參雜，混合；攪拌
+	- #card 發酵
+	- #card 最後，最終
+	- #card 擰，絞；縮小
+	- #card (嗅覺上的) 味道，氣味
+	- #card 甜酒，糯米酒
+	- #card 就這樣(維持原樣)
 - # 32
+  collapsed:: true
+	- #card 真貨；真正，真本事
+	- #card 預報 (氣象預報)
+	- #card 大型
+	- #card 絕佳的，極優秀的
+	- #card 謠傳；背後議論
+	- #card (狀態、程度) 極度，非常
+	- #card 人氣，有人緣，受歡迎 (很受歡迎)
+	- #card 總統
+	- #card 辭職，辭官
+	- #card 人體 (造成傷亡的交通事故)
+	- #card 車內 (車廂內廣播)
+	- #card 號外
+	- #card 私費，自費
+	- #card 留學生
+	- #card 國費，公費
+	- #card 漲價，價格上揚
+	- #card 國會
+	- #card 解散
+	- #card 運勢
+	- #card 週刊，週報 (週刊雜誌)
+	- #card 財運
+	- #card 零用錢
+	- #card 博覽會
+	- #card 村莊，鄉村
+	- #card 陶瓷器的總稱；烤魚、烤雞等
+	- #card 技術
+	- #card 江戶時代 (西元1603~1867年)
+	- #card 市長
+	- #card 曲調，樂曲
+	- #card 愛用，喜歡用
+	- #card 會長，名譽理事長
+	- #card 明治時代 (西元1868~1912年)
+	- #card 歸國，回國
+	- #card 員工旅遊
+	- #card 事，要事；用途，作用
+	- #card (若沒記錯的話) 應該，大概
+	- #card (談話中思考時所發之語) 嗯…
+	- #card 揭示，佈告 (公佈欄，佈告欄)
+	- #card 募集，招募
+	- #card 特快車
+	- #card 非常喜悅，極其高興
+	- #card 纜車，電纜車，空中纜車
+	- #card 湖，湖泊
+	- #card 遊船，觀光船
+	- #card 杯麵
 - # 33
 -
 - ### Next: Japanese 6

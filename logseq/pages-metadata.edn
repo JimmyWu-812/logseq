@@ -138,7 +138,7 @@
   :block/updated-at 1662202967418}
  {:block/name "japanese 5",
   :block/created-at 1662202967416,
-  :block/updated-at 1663691299497}
+  :block/updated-at 1668357384937}
  {:block/name "jul 10th, 2022",
   :block/created-at 1660103575034,
   :block/updated-at 1660103575034}
@@ -210,13 +210,25 @@
   :block/updated-at 1660103575138}
  {:block/name "korean 1",
   :block/created-at 1660103587092,
-  :block/updated-at 1662904597615}
+  :block/updated-at 1668310749568}
  {:block/name "korean 2",
   :block/created-at 1660103587072,
-  :block/updated-at 1666451784665}
+  :block/updated-at 1668619350402}
  {:block/name "later",
   :block/created-at 1660103328750,
   :block/updated-at 1660103328750}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668310509125,
+  :block/updated-at 1668310509125}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668355204541,
+  :block/updated-at 1668355204541}
+ {:block/name "nov 17th, 2022",
+  :block/created-at 1668619183105,
+  :block/updated-at 1668619183105}
+ {:block/name "nov 2nd, 2022",
+  :block/created-at 1667349348978,
+  :block/updated-at 1667349348978}
  {:block/name "now",
   :block/created-at 1660103328751,
   :block/updated-at 1660103328751}
@@ -241,6 +253,24 @@
  {:block/name "oct 22nd, 2022",
   :block/created-at 1666413735115,
   :block/updated-at 1666426730146}
+ {:block/name "oct 23rd, 2022",
+  :block/created-at 1666536875576,
+  :block/updated-at 1666536875576}
+ {:block/name "oct 25th, 2022",
+  :block/created-at 1666633299394,
+  :block/updated-at 1666633299394}
+ {:block/name "oct 26th, 2022",
+  :block/created-at 1666713733239,
+  :block/updated-at 1666713733239}
+ {:block/name "oct 28th, 2022",
+  :block/created-at 1666887758746,
+  :block/updated-at 1666887758746}
+ {:block/name "oct 29th, 2022",
+  :block/created-at 1667025702927,
+  :block/updated-at 1667025702927}
+ {:block/name "oct 31st, 2022",
+  :block/created-at 1667147514411,
+  :block/updated-at 1667147514411}
  {:block/name "scholarship",
   :block/created-at 1660103576137,
   :block/updated-at 1660103576137}

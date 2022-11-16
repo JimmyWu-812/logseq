@@ -941,6 +941,98 @@
 	  collapsed:: true
 		- 오른쪽
 - # 14
+	- #card 皮鞋
+	- #card 帽子
+	- #card 褲子
+	- #card 襯衫
+	- #card 西裝
+	- #card 運動鞋
+	- #card 連身裙
+	- #card 裙子
+	- #card 外套
+	- #card 穿(鞋)
+	- #card 戴(帽子、眼鏡)
+	- #card 穿(衣、褲)
+	- #card 大的
+	- #card 小的
+	- #card 長的
+	- #card 短的
+	- #card 高的
+	- #card 低的、矮的
+	- #card 貴的
+	- #card 便宜的
+	- #card 不舒服的、不方便的
+	- #card 舒服的、方便的
+	- #card 厚的
+	- #card 薄的
+	- #card 可愛的
+	- #card 聰明的
+	- #card 帥氣的、有型的
+	- #card 漂亮的
+	- #card 親切的
+	- #card 住、活
+	- #card 玩
+	- #card 開(門、窗)
+	- #card 什麼樣的、何種的
+	- #card 流行(時尚)
+	- #card 害怕的，可怕的
+	- #card 難過的、傷心的
+	- #card 身高
+	- #card 牛仔褲
+	- #card 體格很好
+	- #card 心，心意
+	- #card 迷你裙
+	- #card 安靜的
+	- #card 送禮物
+	- #card 寄
+	- #card 給…(表示尊敬)
+	- #card 一次
+	- #card 馬格利酒
+	- #card 都市
+	- #card 美麗的
+	- #card 韓服
+	- #card 不知道，不懂
+	  collapsed:: true
+		- 모르다
+	- #card 問，打聽
+	  collapsed:: true
+		- 물어보다
+	- #card 問，詢問，提問
+	  collapsed:: true
+		- 묻다
+	- #card T恤
+	- #card 風格
+	- #card 單純的、簡樸的
+	- #card 白色情人節
+	  collapsed:: true
+		- 화이트데이
+	- #card 原來如此、是這樣啊
+	  collapsed:: true
+		- 그렇군요
+	- #card (一)天，(一)日
+	  collapsed:: true
+		- 날
+	- #card 到處，四處
+	  collapsed:: true
+		- 여기저기
+	- #card 都，全
+	  collapsed:: true
+		- 다
+	- #card 糖果
+	- #card 下，下來，降下
+	  collapsed:: true
+		- 내려오다
+	- #card 登山鞋
+	  collapsed:: true
+		- 등산화
+	- #card 結業式
+	- #card 表示對象
+	- #card 圍巾
+	- #card 耳環
+	- #card 開心的
+	- #card 做，穿，戴
+	- #card 帶，擁有
+	- #card
 - # 15
 - # 16
 -
