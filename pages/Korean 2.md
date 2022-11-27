@@ -941,6 +941,7 @@
 	  collapsed:: true
 		- 오른쪽
 - # 14
+  collapsed:: true
 	- #card 皮鞋
 	- #card 帽子
 	- #card 褲子
@@ -994,9 +995,6 @@
 	- #card 不知道，不懂
 	  collapsed:: true
 		- 모르다
-	- #card 問，打聽
-	  collapsed:: true
-		- 물어보다
 	- #card 問，詢問，提問
 	  collapsed:: true
 		- 묻다
@@ -1032,6 +1030,29 @@
 	- #card 開心的
 	- #card 做，穿，戴
 	- #card 帶，擁有
+	- #card 我不知道
+	- #card 戒指
+	  collapsed:: true
+		- 반지
+	- #card 恭喜
+	- #card 新的
+	- #card 驚訝，被嚇到
+	- #card 先、首先
+	- #card 問，打聽
+	  collapsed:: true
+		- 물어보다
+	- #card 漢拏山
+	  collapsed:: true
+		- 한라산
+	- #card 棉被
+	  collapsed:: true
+		- 이불
+	- #card 提早，早
+	  collapsed:: true
+		- 일찍
+	- #card 演員
+	  collapsed:: true
+		- 배우
 	- #card
 - # 15
 - # 16
