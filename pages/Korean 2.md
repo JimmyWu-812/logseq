@@ -1079,10 +1079,20 @@
 	  collapsed:: true
 		- 드리다
 	- #card 一次
+	  collapsed:: true
+		- 한번
 	- #card 馬格利酒
+	  collapsed:: true
+		- 막걸리
 	- #card 都市
+	  collapsed:: true
+		- 도시
 	- #card 美麗的
+	  collapsed:: true
+		- 아름답다
 	- #card 韓服
+	  collapsed:: true
+		- 한복
 	- #card 不知道，不懂
 	  collapsed:: true
 		- 모르다
@@ -1090,8 +1100,14 @@
 	  collapsed:: true
 		- 묻다
 	- #card T恤
+	  collapsed:: true
+		- 티셔츠
 	- #card 風格
+	  collapsed:: true
+		- 스타일
 	- #card 單純的、簡樸的
+	  collapsed:: true
+		- 단순하다
 	- #card 白色情人節
 	  collapsed:: true
 		- 화이트데이
@@ -1108,6 +1124,8 @@
 	  collapsed:: true
 		- 다
 	- #card 糖果
+	  collapsed:: true
+		- 사탕
 	- #card 下，下來，降下
 	  collapsed:: true
 		- 내려오다
@@ -1115,20 +1133,44 @@
 	  collapsed:: true
 		- 등산화
 	- #card 結業式
+	  collapsed:: true
+		- 수료식
 	- #card 表示對象
+	  collapsed:: true
+		- 에게
 	- #card 圍巾
+	  collapsed:: true
+		- 목도리
 	- #card 耳環
+	  collapsed:: true
+		- 귀걸이
 	- #card 開心的
+	  collapsed:: true
+		- 기쁘다
 	- #card 做，穿，戴
+	  collapsed:: true
+		- 하다
 	- #card 帶，擁有
+	  collapsed:: true
+		- 가지다
 	- #card 我不知道
+	  collapsed:: true
+		- 모르겠어요
 	- #card 戒指
 	  collapsed:: true
 		- 반지
 	- #card 恭喜
+	  collapsed:: true
+		- 축하
 	- #card 新的
+	  collapsed:: true
+		- 새
 	- #card 驚訝，被嚇到
+	  collapsed:: true
+		- 놀라다
 	- #card 先、首先
+	  collapsed:: true
+		- 먼저
 	- #card 問，打聽
 	  collapsed:: true
 		- 물어보다
@@ -1147,8 +1189,22 @@
 	- #card 問題
 	  collapsed:: true
 		- 문제
-	-
 - # 15
+	- #card 換錢
+	- #card 訂機票
+	- #card 辦護照
+	- #card 訂飯店
+	- #card 抵達
+	- #card 回來
+	- #card 旅行
+	- #card 出發
+	- #card 風景美麗
+	- #card 很多可以看或參觀的東西
+	- #card 很多好吃的食物
+	- #card 物價便宜
+	- #card 沒什麼人又安靜
+	- #card 戒指
+	- #card 求婚
 - # 16
 -
 - ### Next: Korean 3
