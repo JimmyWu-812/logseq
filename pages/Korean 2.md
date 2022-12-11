@@ -1190,6 +1190,7 @@
 	  collapsed:: true
 		- 문제
 - # 15
+  collapsed:: true
 	- #card 換錢
 	- #card 訂機票
 	- #card 辦護照
@@ -1205,6 +1206,14 @@
 	- #card 沒什麼人又安靜
 	- #card 戒指
 	- #card 求婚
+	- #card 日子
+	- #card 預訂，預購
+	- #card 海雲台
+	- #card 出發、離開
+	- #card 安東
+	- #card 燉雞
+	- #card 平昌
+	- #card
 - # 16
 -
 - ### Next: Korean 3
