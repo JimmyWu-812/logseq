@@ -1,0 +1,7 @@
+- ???: How does one preserve and ___ memories?
+- ???: Memories can be incredibly valuable, as some of us may want to remember certain moments of our lives.
+- ???: It could be a good one that made you smile, or a bad thing that ___.
+- ???: Unfortunately, some of these wonderful moments can be forgotten.
+- ???: Most things do not last forever. Everything ___ change or ___ through time.
+- ???: Memories are one of them.
+- ???:

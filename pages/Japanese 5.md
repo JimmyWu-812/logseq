@@ -623,5 +623,45 @@
 	- #card 遊船，觀光船
 	- #card 杯麵
 - # 33
+  collapsed:: true
+	- #card 繼續，連續；相連；相繼不斷
+	- #card 市民會館
+	- #card (患者)出院
+	- #card 發售
+	- #card 導覽書，引導說明手冊
+	- #card 調職(至另一地點)
+	- #card 常發生
+	- #card 統計
+	- #card 洪水
+	- #card 都會性的
+	- #card 進步的，具前瞻性的
+	- #card 季節
+	- #card 平靜的；(性情)沉穩的
+	- #card 安全
+	- #card ~性 (安全性)
+	- #card 堤防
+	- #card (一)週，(一)星期
+	- #card 本人，當事人
+	- #card [縮稱] 廣告
+	- #card (有名)製造者，製造廠商
+	- #card 海報
+	- #card 皮膚
+	- #card 退職，退休
+	- #card 建設
+	- #card 方法，辦法
+	- #card 關係，交情
+	- #card 馬拉松賽跑
+	- #card 到，抵達
+	- #card 燈泡，電燈泡
+	- #card 更換，替換
+	- #card 確認
+	- #card 手指，腳趾
+	- #card 護創膠布，OK繃
+	- #card 截止，終止；截止期限
+	- #card 面試
+	- #card [縮稱] 數位相機
+	- #card 對方，對象
+	- #card [敬稱] 人
+	- #card 任職，上班
 -
 - ### Next: Japanese 6
