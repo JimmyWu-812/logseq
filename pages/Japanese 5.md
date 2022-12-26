@@ -755,90 +755,279 @@
 - # 32
   collapsed:: true
 	- #card 真貨；真正，真本事
+	  collapsed:: true
+		- 本物　ほんもの　０
 	- #card 預報 (氣象預報)
+	  collapsed:: true
+		- 予報（天気予報）　よほう（てんきよほう）　０（４）
 	- #card 大型
+	  collapsed:: true
+		- 大型　おおがた　０
 	- #card 絕佳的，極優秀的
+	  collapsed:: true
+		- 素晴らしい　すばらしい　４
 	- #card 謠傳；背後議論
+	  collapsed:: true
+		- うわさ　０
 	- #card (狀態、程度) 極度，非常
+	  collapsed:: true
+		- 大～　だい～
 	- #card 人氣，有人緣，受歡迎 (很受歡迎)
+	  collapsed:: true
+		- 人気（大人気）　にんき（だいにんき）　０（３）
 	- #card 總統
+	  collapsed:: true
+		- 大統領　だいとうりょう　３
+		- https://kakijun.jp/gif-mini/12185200-m.gif
 	- #card 辭職，辭官
+	  collapsed:: true
+		- 辞任する　じにんする　０　自他スル
 	- #card 人體 (造成傷亡的交通事故)
+	  collapsed:: true
+		- 人身（人身事故）　じんしん（じんしんじこ）　０（５）
 	- #card 車內 (車廂內廣播)
+	  collapsed:: true
+		- 車内（車内放送）　しゃない（しゃないほうそう）　１（４）
 	- #card 號外
+	  collapsed:: true
+		- 号外　ごうがい　０
 	- #card 私費，自費
+	  collapsed:: true
+		- 私費　しひ　１、０
 	- #card 留學生
+	  collapsed:: true
+		- 留学生　りゅうがくせい　３
 	- #card 國費，公費
+	  collapsed:: true
+		- 国費　こくひ　１
 	- #card 漲價，價格上揚
+	  collapsed:: true
+		- 値上がりする　ねあがりする　０　自スル
 	- #card 國會
+	  collapsed:: true
+		- 国会　こっかい　０
 	- #card 解散
+	  collapsed:: true
+		- 解散する　かいさんする　０　自他スル
+		- https://kakijun.jp/gif-mini/1297200-m.gif
 	- #card 運勢
+	  collapsed:: true
+		- 運勢　うんせい　１
 	- #card 週刊，週報 (週刊雜誌)
+	  collapsed:: true
+		- 週刊（週刊誌）　しゅうかん（しゅうかんし）　０（３）
 	- #card 財運
+	  collapsed:: true
+		- 金運　きんうん　０
 	- #card 零用錢
+	  collapsed:: true
+		- お小遣い　おこづかい　２
 	- #card 博覽會
+	  collapsed:: true
+		- 博覧会　はくらんかい　３
+		- https://kakijun.jp/gif-mini/1213200-m.gif
 	- #card 村莊，鄉村
+	  collapsed:: true
+		- 村　むら　２
 	- #card 陶瓷器的總稱；烤魚、烤雞等
+	  collapsed:: true
+		- 焼き物　やきもの　０
 	- #card 技術
+	  collapsed:: true
+		- 技術　ぎじゅつ　１
 	- #card 江戶時代 (西元1603~1867年)
+	  collapsed:: true
+		- 江戸時代　えどじだい　３
+		- https://kakijun.jp/gif-mini/10114200-m.gif
 	- #card 市長
+	  collapsed:: true
+		- 市長　しちょう　１、２
 	- #card 曲調，樂曲
+	  collapsed:: true
+		- 曲　きょく　０
 	- #card 愛用，喜歡用
+	  collapsed:: true
+		- 愛用する　あいようする　０　他スル
 	- #card 會長，名譽理事長
+	  collapsed:: true
+		- 会長　かいちょう　０
 	- #card 明治時代 (西元1868~1912年)
+	  collapsed:: true
+		- 明治時代　めいじじだい　４
+		- https://kakijun.jp/gif-mini/10114200-m.gif
 	- #card 歸國，回國
+	  collapsed:: true
+		- 帰国する　きこくする　０　自スル
+		- https://kakijun.jp/gif-mini/1055200-m.gif
 	- #card 員工旅遊
+	  collapsed:: true
+		- 社員旅行　しゃいんりょこう　４
 	- #card 事，要事；用途，作用
+	  collapsed:: true
+		- 用　よう　１
 	- #card (若沒記錯的話) 應該，大概
+	  collapsed:: true
+		- 確か　たしか　１
 	- #card (談話中思考時所發之語) 嗯…
+	  collapsed:: true
+		- ええと　０
+		- ええっと　０
 	- #card 揭示，佈告 (公佈欄，佈告欄)
+	  collapsed:: true
+		- 掲示（掲示板）　けいじ（けいじばん）　０（０）
 	- #card 募集，招募
+	  collapsed:: true
+		- 募集　ぼしゅう　０
+		- https://kakijun.jp/gif-mini/1212200-m.gif
 	- #card 特快車
+	  collapsed:: true
+		- 特急電車（特急）　とっきゅうでんしゃ（とっきゅう）　５（０）
+		- https://kakijun.jp/gif-mini/10154200-m.gif
+		- https://kakijun.jp/gif-mini/0980200-m.gif
+		- https://kakijun.jp/gif-mini/13165200-m.gif
 	- #card 非常喜悅，極其高興
+	  collapsed:: true
+		- 大喜びする　おおよろこびする　３　自スル
 	- #card 纜車，電纜車，空中纜車
+	  collapsed:: true
+		- ロープウェー　４
+		- ロープウェイ　４
 	- #card 湖，湖泊
+	  collapsed:: true
+		- 湖　みずうみ　３
+		- https://kakijun.jp/gif-mini/12132200-m.gif
 	- #card 遊船，觀光船
+	  collapsed:: true
+		- 遊覧船　ゆうらんせん　０
 	- #card 杯麵
+	  collapsed:: true
+		- カップラーメン　４
 - # 33
   collapsed:: true
 	- #card 繼續，連續；相連；相繼不斷
+	  collapsed:: true
+		- 続く　つづく　０　自五
+		- https://kakijun.jp/gif-mini/13115200-m.gif
 	- #card 市民會館
+	  collapsed:: true
+		- 市民ホール　しみんホール　４
 	- #card (患者)出院
+	  collapsed:: true
+		- 退院する　たいいんする　０　自スル
 	- #card 發售
+	  collapsed:: true
+		- 発売する　はつばいする　０　他スル
 	- #card 導覽書，引導說明手冊
+	  collapsed:: true
+		- 案内書　あんないしょ　０、３
 	- #card 調職(至另一地點)
+	  collapsed:: true
+		- 転勤する　てんきんする　０　自スル
+		- https://kakijun.jp/gif-mini/1210200-m.gif
 	- #card 常發生
+	  collapsed:: true
+		- 多発する　たはつする　０　自スル
 	- #card 統計
+	  collapsed:: true
+		- 統計　とうけい　０
+		- https://kakijun.jp/gif-mini/12185200-m.gif
 	- #card 洪水
+	  collapsed:: true
+		- 洪水　こうずい　０、１
 	- #card 都會性的
+	  collapsed:: true
+		- 都会的（だ）　とかいてき（だ）　０
 	- #card 進步的，具前瞻性的
+	  collapsed:: true
+		- 進歩的（だ）　しんぽてき（だ）　０
 	- #card 季節
+	  collapsed:: true
+		- 季節　きせつ　１
 	- #card 平靜的；(性情)沉穩的
+	  collapsed:: true
+		- 穏やか（だ）　おだやか（だ）　２
+		- https://kakijun.jp/gif-mini/1643200-m.gif
 	- #card 安全
+	  collapsed:: true
+		- 安全　あんぜん　０
 	- #card ~性 (安全性)
+	  collapsed:: true
+		- ～性（安全性）　～せい（あんぜんせい）　（０）
 	- #card 堤防
+	  collapsed:: true
+		- 堤防　ていぼう　０
 	- #card (一)週，(一)星期
+	  collapsed:: true
+		- 週間　しゅうかん　０
 	- #card 本人，當事人
+	  collapsed:: true
+		- 本人　ほんにん　１
 	- #card [縮稱] 廣告
+	  collapsed:: true
+		- CM　シーエム　０
 	- #card (有名)製造者，製造廠商
+	  collapsed:: true
+		- メーカー　１、０
 	- #card 海報
+	  collapsed:: true
+		- ポスター　１
 	- #card 皮膚
+	  collapsed:: true
+		- 肌　はだ　１
+		- https://kakijun.jp/gif-mini/06122200-m.gif
 	- #card 退職，退休
+	  collapsed:: true
+		- 退職する　たいしょくする　０　自スル
 	- #card 建設
+	  collapsed:: true
+		- 建設する　けんせつする　０　他スル
 	- #card 方法，辦法
+	  collapsed:: true
+		- 方法　ほうほう　０
 	- #card 關係，交情
+	  collapsed:: true
+		- 仲　なか　１
 	- #card 馬拉松賽跑
+	  collapsed:: true
+		- マラソン　０
 	- #card 到，抵達
+	  collapsed:: true
+		- 到着する　とうちゃくする　０　自スル
 	- #card 燈泡，電燈泡
+	  collapsed:: true
+		- 電球　でんきゅう　０
+		- https://kakijun.jp/gif-mini/13165200-m.gif
 	- #card 更換，替換
+	  collapsed:: true
+		- 替える　かえる　０　他下一
 	- #card 確認
+	  collapsed:: true
+		- 確認する　かくにんする　０　他スル
 	- #card 手指，腳趾
+	  collapsed:: true
+		- 指　ゆび　２
 	- #card 護創膠布，OK繃
+	  collapsed:: true
+		- ばんそうこう　０
 	- #card 截止，終止；截止期限
+	  collapsed:: true
+		- 締め切り　しめきり　０
+		- https://kakijun.jp/gif-mini/1582200-m.gif
 	- #card 面試
+	  collapsed:: true
+		- 面接試験　めんせつしけん　５
 	- #card [縮稱] 數位相機
+	  collapsed:: true
+		- デジカメ　０
 	- #card 對方，對象
+	  collapsed:: true
+		- 相手　あいて　３
 	- #card [敬稱] 人
+	  collapsed:: true
+		- 方　かた　２
 	- #card 任職，上班
+	  collapsed:: true
+		- 勤務　きんむ　１
+		- https://kakijun.jp/gif-mini/1210200-m.gif
 -
 - ### Next: [[Japanese 6]]

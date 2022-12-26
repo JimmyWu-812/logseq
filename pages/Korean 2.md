@@ -1190,7 +1190,6 @@
 	  collapsed:: true
 		- 문제
 - # 15
-  collapsed:: true
 	- #card 換錢
 	- #card 訂機票
 	- #card 辦護照
@@ -1213,6 +1212,13 @@
 	- #card 安東
 	- #card 燉雞
 	- #card 平昌
+	- #card 愉快的
+	- #card 休假
+	- #card 棒球比賽
+	- #card 馬
+	- #card 展覽
+	- #card 辣炒雞排
+	- #card 春川
 	- #card
 - # 16
 -
