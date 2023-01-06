@@ -1006,7 +1006,7 @@
 	  card-next-schedule:: 2022-07-27T01:11:07.071Z
 	  card-last-reviewed:: 2022-07-23T01:11:07.072Z
 	  card-last-score:: 5
-		- 밥을 먹더
+		- 밥을 먹다
 	- #card 寫作業
 	  collapsed:: true
 		- 숙제를 하다

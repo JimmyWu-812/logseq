@@ -1219,6 +1219,27 @@
 	- #card 展覽
 	- #card 辣炒雞排
 	- #card 春川
+	- #card 再，還，更
+	  collapsed:: true
+		- 더
+	- #card 放假，休假，假期
+	  collapsed:: true
+		- 휴가
+	- #card 地方
+	- #card 蜜月旅行
+	- #card 美術館
+	- #card 回，歸，返，回來
+	  collapsed:: true
+		- 돌아오다
+	- #card 接連，連續，持續，繼續，不斷
+	  collapsed:: true
+		- 계속
+	- #card 海邊，海岸
+	  collapsed:: true
+		- 바닷가
+	- #card 再，再次，又
+	  collapsed:: true
+		- 다시
 	- #card
 - # 16
 -
