@@ -1240,6 +1240,15 @@
 	- #card 再，再次，又
 	  collapsed:: true
 		- 다시
+	- #card 一起
+	- #card 南怡島
+	- #card 島
+	- #card 三岳山
+	- #card 上去
+	- #card 江，河
+		- 강
+	- #card 看見、被看
+	- #card 蕎麥涼麵
 	- #card
 - # 16
 -
