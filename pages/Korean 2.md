@@ -1254,6 +1254,15 @@
 	- #card 龍仁
 	- #card 民俗村
 	- #card 佛國寺
+	- #card 大醬湯
+	  collapsed:: true
+		- 된장찌개
+	- #card 市廳、市政府
+		- 시청
+	- #card 美金
+		- 달러
+	- #card 車票
+		- 승차권
 	- #card
 - # 16
 -
