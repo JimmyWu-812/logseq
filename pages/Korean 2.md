@@ -1228,9 +1228,6 @@
 	- #card 地方
 	- #card 蜜月旅行
 	- #card 美術館
-	- #card 回，歸，返，回來
-	  collapsed:: true
-		- 돌아오다
 	- #card 接連，連續，持續，繼續，不斷
 	  collapsed:: true
 		- 계속
@@ -1246,9 +1243,17 @@
 	- #card 三岳山
 	- #card 上去
 	- #card 江，河
+	  collapsed:: true
 		- 강
 	- #card 看見、被看
 	- #card 蕎麥涼麵
+	- #card 疑問
+	- #card 夏威夷
+	  collapsed:: true
+		- 하와이
+	- #card 龍仁
+	- #card 民俗村
+	- #card 佛國寺
 	- #card
 - # 16
 -
