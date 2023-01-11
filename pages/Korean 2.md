@@ -1190,6 +1190,7 @@
 	  collapsed:: true
 		- 문제
 - # 15
+  collapsed:: true
 	- #card 換錢
 	- #card 訂機票
 	- #card 辦護照
@@ -1258,12 +1259,20 @@
 	  collapsed:: true
 		- 된장찌개
 	- #card 市廳、市政府
+	  collapsed:: true
 		- 시청
 	- #card 美金
+	  collapsed:: true
 		- 달러
 	- #card 車票
+	  collapsed:: true
 		- 승차권
-	- #card
+	- #card 薔薇，玫瑰
+	  collapsed:: true
+		- 장미
+	- #card 跳舞
+	  collapsed:: true
+		- 춤추다
 - # 16
 -
-- ### Next: Korean 3
+- ### Next: [[Korean 3]]
