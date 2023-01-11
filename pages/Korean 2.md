@@ -1192,43 +1192,107 @@
 - # 15
   collapsed:: true
 	- #card 換錢
+	  collapsed:: true
+		- 돈을 바꾸다
 	- #card 訂機票
+	  collapsed:: true
+		- 비행기 표를 예매하다
 	- #card 辦護照
+	  collapsed:: true
+		- 여권을 만들다
 	- #card 訂飯店
+	  collapsed:: true
+		- 호텔을 예약하다
 	- #card 抵達
+	  collapsed:: true
+		- 도착하다
 	- #card 回來
+	  collapsed:: true
+		- 돌아오다
 	- #card 旅行
+	  collapsed:: true
+		- 여행하다
 	- #card 出發
+	  collapsed:: true
+		- 출발하다
 	- #card 風景美麗
+	  collapsed:: true
+		- 경치가 아름답다
 	- #card 很多可以看或參觀的東西
+	  collapsed:: true
+		- 구경거리가 많다
 	- #card 很多好吃的食物
+	  collapsed:: true
+		- 맛있는 음식이 많다
 	- #card 物價便宜
+	  collapsed:: true
+		- 물건 값이 싸다
 	- #card 沒什麼人又安靜
+	  collapsed:: true
+		- 사람도 없고 조용하다
 	- #card 戒指
+	  collapsed:: true
+		- 반지
 	- #card 求婚
+	  collapsed:: true
+		- 프러포즈
 	- #card 日子
+	  collapsed:: true
+		- 날
 	- #card 預訂，預購
+	  collapsed:: true
+		- 예매하다
 	- #card 海雲台
+	  collapsed:: true
+		- 해운대
 	- #card 出發、離開
+	  collapsed:: true
+		- 떠나다
 	- #card 安東
+	  collapsed:: true
+		- 안동
 	- #card 燉雞
+	  collapsed:: true
+		- 찜닭
 	- #card 平昌
+	  collapsed:: true
+		- 평창
 	- #card 愉快的
+	  collapsed:: true
+		- 즐겁다
 	- #card 休假
+	  collapsed:: true
+		- 휴가
 	- #card 棒球比賽
+	  collapsed:: true
+		- 야구 경기
+	- #card 棒球場
+	  collapsed:: true
+		- 야구장
 	- #card 馬
+	  collapsed:: true
+		- 말
 	- #card 展覽
+	  collapsed:: true
+		- 전시회
 	- #card 辣炒雞排
+	  collapsed:: true
+		- 닭갈비
 	- #card 春川
+	  collapsed:: true
+		- 춘천
 	- #card 再，還，更
 	  collapsed:: true
 		- 더
-	- #card 放假，休假，假期
-	  collapsed:: true
-		- 휴가
 	- #card 地方
+	  collapsed:: true
+		- 꼿
 	- #card 蜜月旅行
+	  collapsed:: true
+		- 신혼여행
 	- #card 美術館
+	  collapsed:: true
+		- 미술관
 	- #card 接連，連續，持續，繼續，不斷
 	  collapsed:: true
 		- 계속
@@ -1239,22 +1303,44 @@
 	  collapsed:: true
 		- 다시
 	- #card 一起
+	  collapsed:: true
+		- 함께
 	- #card 南怡島
+	  collapsed:: true
+		- 남이섬
 	- #card 島
+	  collapsed:: true
+		- 섬
 	- #card 三岳山
+	  collapsed:: true
+		- 삼악산
 	- #card 上去
+	  collapsed:: true
+		- 올라가다
 	- #card 江，河
 	  collapsed:: true
 		- 강
 	- #card 看見、被看
+	  collapsed:: true
+		- 보이다
 	- #card 蕎麥涼麵
+	  collapsed:: true
+		- 막국수
 	- #card 疑問
+	  collapsed:: true
+		- 질문
 	- #card 夏威夷
 	  collapsed:: true
 		- 하와이
 	- #card 龍仁
+	  collapsed:: true
+		- 용인
 	- #card 民俗村
+	  collapsed:: true
+		- 민속촌
 	- #card 佛國寺
+	  collapsed:: true
+		- 불국사
 	- #card 大醬湯
 	  collapsed:: true
 		- 된장찌개
@@ -1270,9 +1356,47 @@
 	- #card 薔薇，玫瑰
 	  collapsed:: true
 		- 장미
-	- #card 跳舞
-	  collapsed:: true
-		- 춤추다
 - # 16
+  collapsed:: true
+	- #card 計畫
+	- #card 送禮物
+	  id:: 63bede30-14fa-4288-bfc3-5e11951e045f
+	- #card 用餐
+	- #card 聯絡
+	- #card 準備
+	- #card 招待、邀請
+	- #card 恭喜
+	- #card 晚地、遲地
+	- #card 多地
+	- #card 快地
+	- #card 認真地
+	- #card 早地
+	- #card 好地
+	- #card 一點
+	- #card 慢慢地
+	- #card 聚會
+	- #card 分數
+	- #card 飲料
+	- #card 特別的事
+	- #card 買去
+	- #card 搬家
+	- #card 假日
+	- #card 領錢
+	- #card 爆米花
+	- #card 跳舞
+	- #card 進來
+	- #card 不、不是的
+	- #card 馬上
+	- #card 回去
+	- #card 度過時光
+	- #card 對了！
+	- #card 不知道
+	- #card 電子郵件地址
+	- #card 回信
+	- #card 遊戲
+	- #card 世界
+	- #card 洗衣粉
+	- #card 有錢人
+	- #card
 -
 - ### Next: [[Korean 3]]
