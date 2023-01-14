@@ -2487,7 +2487,7 @@
 	- #card 休息時間
 	  collapsed:: true
 		- 쉬는 시간
-	- #card 聊天
+	- #card 聊天，說，說明，解釋，談，告訴，告知
 	  collapsed:: true
 		- 이야기하다
 	- #card 家鄉

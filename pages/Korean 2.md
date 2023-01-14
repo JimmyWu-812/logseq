@@ -1384,6 +1384,9 @@
 	- #card 領錢
 	- #card 爆米花
 	- #card 跳舞
+	- #card 競賽，比賽
+	  collapsed:: true
+		- 경기
 	- #card 進來
 	- #card 不、不是的
 	- #card 馬上
@@ -1393,8 +1396,14 @@
 	- #card 不知道
 	- #card 電子郵件地址
 	- #card 回信
+	- #card 集會，聚會
+	  collapsed:: true
+		- 모임
 	- #card 遊戲
 	- #card 世界
+	- #card 幾，許多，各，各種
+	  collapsed:: true
+		- 여러
 	- #card 洗衣粉
 	- #card 有錢人
 	- #card
