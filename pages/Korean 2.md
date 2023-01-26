@@ -1359,53 +1359,140 @@
 - # 16
   collapsed:: true
 	- #card 計畫
+	  collapsed:: true
+		- 계획하다
 	- #card 送禮物
 	  id:: 63bede30-14fa-4288-bfc3-5e11951e045f
+	  collapsed:: true
+		- 선물하다
 	- #card 用餐
+	  collapsed:: true
+		- 식사하다
 	- #card 聯絡
+	  collapsed:: true
+		- 연락하다
 	- #card 準備
+	  collapsed:: true
+		- 준비하다
 	- #card 招待、邀請
+	  collapsed:: true
+		- 초대하다
 	- #card 恭喜
+	  collapsed:: true
+		- 축하하다
 	- #card 晚地、遲地
+	  collapsed:: true
+		- 늦게
 	- #card 多地
+	  collapsed:: true
+		- 많이
 	- #card 快地
+	  collapsed:: true
+		- 빨리
 	- #card 認真地
+	  collapsed:: true
+		- 열심히
 	- #card 早地
+	  collapsed:: true
+		- 일찍
 	- #card 好地
+	  collapsed:: true
+		- 잘
 	- #card 一點
+	  collapsed:: true
+		- 조금
 	- #card 慢慢地
+	  collapsed:: true
+		- 천천히
 	- #card 聚會
+	  collapsed:: true
+		- 모임
 	- #card 分數
+	  collapsed:: true
+		- 점수
 	- #card 飲料
+	  collapsed:: true
+		- 음료수
 	- #card 特別的事
+	  collapsed:: true
+		- 별일
 	- #card 買去
+	  collapsed:: true
+		- 사 가다
 	- #card 搬家
+	  collapsed:: true
+		- 이사(를) 하다
 	- #card 假日
+	  collapsed:: true
+		- 휴일
 	- #card 領錢
+	  collapsed:: true
+		- 돈을 찾다
 	- #card 爆米花
+	  collapsed:: true
+		- 팝콘
 	- #card 跳舞
+	  collapsed:: true
+		- 춤(을) 추다
 	- #card 競賽，比賽
 	  collapsed:: true
 		- 경기
 	- #card 進來
-	- #card 不、不是的
-	- #card 馬上
-	- #card 回去
-	- #card 度過時光
-	- #card 對了！
-	- #card 不知道
-	- #card 電子郵件地址
-	- #card 回信
-	- #card 集會，聚會
 	  collapsed:: true
-		- 모임
+		- 들어오다
+	- #card 不、不是的
+	  collapsed:: true
+		- 아니에요
+	- #card 馬上
+	  collapsed:: true
+		- 곧
+	- #card 回去
+	  collapsed:: true
+		- 돌아가다
+	- #card 度過時光
+	  collapsed:: true
+		- 시간을 보내다
+	- #card 對了！
+	  collapsed:: true
+		- 참
+	- #card 不知道
+	  collapsed:: true
+		- 몰라요
+	- #card 電子郵件地址
+	  collapsed:: true
+		- 이메일 주소
+	- #card 回信
+	  collapsed:: true
+		- 답장
 	- #card 遊戲
+	  collapsed:: true
+		- 놀이
 	- #card 世界
+	  collapsed:: true
+		- 세계
 	- #card 幾，許多，各，各種
 	  collapsed:: true
 		- 여러
 	- #card 洗衣粉
+	  collapsed:: true
+		- 세제
 	- #card 有錢人
-	- #card
+	  collapsed:: true
+		- 부자
+	- #card 下週
+	  collapsed:: true
+		- 다음 주
+	- #card 危險
+	  collapsed:: true
+		- 위험하다
+	- #card 聽力測驗
+	  collapsed:: true
+		- 듣기 시험
+	- #card 快
+	  collapsed:: true
+		- 빠르다
+	- #card 兌款，兌換，換錢
+	  collapsed:: true
+		- 환전
 -
 - ### Next: [[Korean 3]]
