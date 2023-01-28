@@ -32,7 +32,16 @@
 	- #card 見面 (敬語)
 	- #card 就那樣
 	- #card 進去(學校)
+	- #card 對、針對、對於、關於、就
+	  collapsed:: true
+		- 대하다
 	- #card 理由
+	- #card ...的、...的東西 (代指事物、現象等)
+	  collapsed:: true
+		- 것
+	- #card 後、之後
+	  collapsed:: true
+		- 후
 	- #card 平日
 	- #card 買來
 	- #card 受到邀請
