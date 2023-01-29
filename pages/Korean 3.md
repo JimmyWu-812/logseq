@@ -45,10 +45,22 @@
 	- #card 平日
 	- #card 買來
 	- #card 受到邀請
+	- #card 相同、相等、一樣
+	  collapsed:: true
+		- 같다
 	- #card 喜劇片
 	- #card 動作片
 	- #card 小說
 	- #card 有時間
+	- #card 說話
+	  collapsed:: true
+		- 말씀하다
+	- #card 那時
+	  collapsed:: true
+		- 그때
+	- #card 方才、剛才、剛剛
+	  collapsed:: true
+		- 방금
 	- #card 西班牙文
 	- #card 語言
 	- #card 文化
