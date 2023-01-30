@@ -32,9 +32,6 @@
 	- #card 見面 (敬語)
 	- #card 就那樣
 	- #card 進去(學校)
-	- #card 對、針對、對於、關於、就
-	  collapsed:: true
-		- 대하다
 	- #card 理由
 	- #card ...的、...的東西 (代指事物、現象等)
 	  collapsed:: true
@@ -62,14 +59,38 @@
 	  collapsed:: true
 		- 방금
 	- #card 西班牙文
+	- #card 學年、年級
+	  collapsed:: true
+		- 학년
 	- #card 語言
 	- #card 文化
 	- #card 關心、興趣
 	- #card 中南美洲
 	- #card 大約、左右
+	- #card (話、文章、圖畫等的)內容
+	  collapsed:: true
+		- 내용
+	- #card 簡單、簡要、簡短
+	  collapsed:: true
+		- 간단히
+	- #card 備忘、留言、摘要
+	  collapsed:: true
+		- 메모하다
+	- #card 題目、標題
+	  collapsed:: true
+		- 제목
+	- #card 自我介紹
+	  collapsed:: true
+		- 자기소개
+	- #card (商業)廣告、宣傳
+	  collapsed:: true
+		- 광고
 	- #card 有名的
 	- #card 關於、對於
 	- #card 發表、報告
+	- #card 感謝、感激
+	  collapsed:: true
+		- 감사하다
 	- #card 字
 	- #card 最
 	  :LOGBOOK:
@@ -80,7 +101,9 @@
 	- #card 排除、去掉
 	- #card 兄弟姊妹們
 	- #card 類似的
-	- #card
+	- #card 價錢、價格
+	  collapsed:: true
+		- 값
 - # 2
 - # 3
 - # 4

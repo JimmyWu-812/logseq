@@ -1286,7 +1286,7 @@
 		- 더
 	- #card 地方
 	  collapsed:: true
-		- 꼿
+		- 곳
 	- #card 蜜月旅行
 	  collapsed:: true
 		- 신혼여행
