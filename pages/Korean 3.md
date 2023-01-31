@@ -104,6 +104,9 @@
 	- #card 價錢、價格
 	  collapsed:: true
 		- 값
+	- #card 糕
+	  collapsed:: true
+		- 떡
 - # 2
 - # 3
 - # 4
