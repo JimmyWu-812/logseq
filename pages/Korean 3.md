@@ -107,6 +107,39 @@
 	- #card 糕
 	  collapsed:: true
 		- 떡
+	- #card 教會
+	  collapsed:: true
+		- 교회
+	- #card 隨時
+	  collapsed:: true
+		- 언제나
+	- #card 問
+	  collapsed:: true
+		- 물어보다
+	- #card 借
+	  collapsed:: true
+		- 빌리다
+	- #card 帶來
+	  collapsed:: true
+		- 가져오다
+	- #card 打開
+	  collapsed:: true
+		- 켜다
+	- #card 不知道
+	  collapsed:: true
+		- 모르다
+	- #card 排隊
+	  collapsed:: true
+		- 줄을서다
+	- #card 手冊、記事本
+	  collapsed:: true
+		- 수첩
+	- #card 跑去
+	  collapsed:: true
+		- 뛰어가다
+	- #card 忘記
+	  collapsed:: true
+		- 잊어버리다
 - # 2
 - # 3
 - # 4
