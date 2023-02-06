@@ -2,9 +2,6 @@
 -
 - # 1
   collapsed:: true
-	- #card 互聯網
-	  collapsed:: true
-		- 인터넷
 	- #card (分數) ~分
 	  collapsed:: true
 		- 점
@@ -238,6 +235,48 @@
 	  collapsed:: true
 		- 모레
 - # 2
+  collapsed:: true
+	- #card 拍照
+	- #card 聽音樂
+	- #card 跳舞
+	- #card 畫畫
+	- #card 蒐集娃娃
+	- #card 上網
+	- #card 欣賞電影
+	- #card 欣賞音樂
+	- #card 爬山
+	- #card 讀書
+	- #card 旅行
+	- #card 做菜
+	- #card 釣魚
+	- #card 運動
+	- #card 玩電腦遊戲
+	- #card 非常
+	- #card 不太...
+	- #card 完全(不)...
+	- #card 健康
+	  collapsed:: true
+		- 건강
+	- #card 吃力、辛苦、累
+	  collapsed:: true
+		- 힘들다
+	- #card 打棒球
+	- #card 韓國文字、韓文
+	  collapsed:: true
+		- 한글
+	- #card 外語
+	- #card 拉丁舞
+	- #card 社團、同好會
+	- #card 加入
+	- #card 聚集
+	- #card 練習室
+	- #card 會費
+	- #card 部落格
+	- #card 真的
+	- #card 文化中心
+	- #card 上傳(照片)
+	- #card 各種
+	- #card
 - # 3
 - # 4
 - # 5
