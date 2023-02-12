@@ -266,9 +266,24 @@
 		- 한글
 	- #card 外語
 	- #card 拉丁舞
+	- #card 上個月
+	  collapsed:: true
+		- 지난달
+	- #card 故障
+	  collapsed:: true
+		- 고장이 나다
+	- #card 打電話
+	  collapsed:: true
+		- 전화를 걸다
 	- #card 社團、同好會
 	- #card 加入
 	- #card 聚集
+	- #card 特別、特殊
+	  collapsed:: true
+		- 특별하다
+	- #card 聲音
+	  collapsed:: true
+		- 소리
 	- #card 練習室
 	- #card 會費
 	- #card 部落格
