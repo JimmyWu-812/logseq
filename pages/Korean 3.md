@@ -257,9 +257,6 @@
 	- #card 健康
 	  collapsed:: true
 		- 건강
-	- #card 吃力、辛苦、累
-	  collapsed:: true
-		- 힘들다
 	- #card 打棒球
 	- #card 韓國文字、韓文
 	  collapsed:: true
@@ -290,8 +287,43 @@
 	- #card 真的
 	- #card 文化中心
 	- #card 上傳(照片)
+	- #card 烤五花肉
+	  collapsed:: true
+		- 삼겹살
 	- #card 各種
-	- #card
+	- #card 交、結交、相處
+	  collapsed:: true
+		- 사귀다
+	- #card 去一趟
+	  collapsed:: true
+		- 다녀오다
+	- #card 背誦
+	  collapsed:: true
+		- 외우다
+	- #card 辛苦
+	  collapsed:: true
+		- 힘들다
+	- #card 選手
+	  collapsed:: true
+		- 선수
+	- #card 漢字
+	  collapsed:: true
+		- 한자
+	- #card 乒乓球
+	  collapsed:: true
+		- 탁구
+	- #card 弄丟
+	  collapsed:: true
+		- 잃어버리다
+	- #card 文法
+	  collapsed:: true
+		- 문법
+	- #card 了解
+	  collapsed:: true
+		- 이해하다
+	- #card 吵雜
+	  collapsed:: true
+		- 시끄럽다
 - # 3
 - # 4
 - # 5
