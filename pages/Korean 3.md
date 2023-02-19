@@ -237,32 +237,74 @@
 - # 2
   collapsed:: true
 	- #card 拍照
+	  collapsed:: true
+		- 사진을 찍다
 	- #card 聽音樂
+	  collapsed:: true
+		- 음악을 듣다
 	- #card 跳舞
+	  collapsed:: true
+		- 춤을 추다
 	- #card 畫畫
+	  collapsed:: true
+		- 그림을 그리다
 	- #card 蒐集娃娃
+	  collapsed:: true
+		- 인형을 모으다
 	- #card 上網
+	  collapsed:: true
+		- 인터넷을 하다
 	- #card 欣賞電影
+	  collapsed:: true
+		- 영화 감상
 	- #card 欣賞音樂
+	  collapsed:: true
+		- 음악 감상
 	- #card 爬山
+	  collapsed:: true
+		- 등산
 	- #card 讀書
+	  collapsed:: true
+		- 독서
 	- #card 旅行
+	  collapsed:: true
+		- 여행
 	- #card 做菜
+	  collapsed:: true
+		- 요리
 	- #card 釣魚
+	  collapsed:: true
+		- 낚시
 	- #card 運動
+	  collapsed:: true
+		- 운동
 	- #card 玩電腦遊戲
+	  collapsed:: true
+		- 컴퓨터 게임
 	- #card 非常
+	  collapsed:: true
+		- 아주
 	- #card 不太...
+	  collapsed:: true
+		- 별로
 	- #card 完全(不)...
+	  collapsed:: true
+		- 잔혀
 	- #card 健康
 	  collapsed:: true
 		- 건강
 	- #card 打棒球
+	  collapsed:: true
+		- 야구(를) 하다
 	- #card 韓國文字、韓文
 	  collapsed:: true
 		- 한글
 	- #card 外語
+	  collapsed:: true
+		- 외국어
 	- #card 拉丁舞
+	  collapsed:: true
+		- 라틴 댄스
 	- #card 上個月
 	  collapsed:: true
 		- 지난달
@@ -273,8 +315,14 @@
 	  collapsed:: true
 		- 전화를 걸다
 	- #card 社團、同好會
+	  collapsed:: true
+		- 동호회
 	- #card 加入
+	  collapsed:: true
+		- 가입하다
 	- #card 聚集
+	  collapsed:: true
+		- 모이다
 	- #card 特別、特殊
 	  collapsed:: true
 		- 특별하다
@@ -282,15 +330,29 @@
 	  collapsed:: true
 		- 소리
 	- #card 練習室
+	  collapsed:: true
+		- 연습실
 	- #card 會費
+	  collapsed:: true
+		- 회비
 	- #card 部落格
+	  collapsed:: true
+		- 블로그
 	- #card 真的
+	  collapsed:: true
+		- 참
 	- #card 文化中心
+	  collapsed:: true
+		- 문화 센터
 	- #card 上傳(照片)
+	  collapsed:: true
+		- (사진을) 올리다
 	- #card 烤五花肉
 	  collapsed:: true
 		- 삼겹살
 	- #card 各種
+	  collapsed:: true
+		- 여러 가지
 	- #card 交、結交、相處
 	  collapsed:: true
 		- 사귀다
