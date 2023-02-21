@@ -387,6 +387,64 @@
 	  collapsed:: true
 		- 시끄럽다
 - # 3
+	- #card 演唱會
+	- #card 音樂會
+	- #card 話劇
+	- #card 音樂劇
+	- #card 展示會
+	- #card 慶典
+	- #card 煙火
+	- #card 韓國傳統打擊樂表演
+	- #card 背包旅行 (自由行)
+	- #card 打工
+	- #card 高空彈跳
+	- #card 潛水
+	- #card 博物館
+	- #card 美術館
+	- #card 表演場地
+	- #card 遊樂園
+	- #card ~小時 (單位)
+	- #card ~個月 (需搭配固有語數詞)
+	- #card ~分鐘
+	- #card ~日、~天
+	- #card ~週
+	- #card ~個月 (需搭配漢字數詞)
+	- #card ~年
+	- #card 一天
+	- #card 去了一趟
+	- #card 生魚片
+	- #card 瑜珈
+	- #card 沙漠
+	- #card 溫泉
+	- #card 三天
+	- #card 再
+	- #card 借出
+	- #card 櫻花
+	- #card 國際
+	- #card 電影節
+	- #card 爵士
+	- #card 尊敬
+	- #card 王
+	- #card 漢拏山
+	- #card 雞
+	- #card 座位
+	- #card 一定
+	- #card 出差
+	- #card 重要的
+	- #card 德壽宮
+	- #card 嗯...、這個嘛
+	- #card 尤其是
+	- #card 最
+	- #card 留下記憶
+	- #card 許多國家
+	- #card 導演
+	- #card 演員
+	- #card 駱駝
+	- #card 歐洲
+	- #card 演講比賽
+	- #card 參加比賽
+	- #card 獲獎
+	- #card 經驗
 - # 4
 - # 5
 - # 6
