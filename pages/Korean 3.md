@@ -387,6 +387,7 @@
 	  collapsed:: true
 		- 시끄럽다
 - # 3
+  collapsed:: true
 	- #card 演唱會
 	- #card 音樂會
 	- #card 話劇
@@ -410,13 +411,24 @@
 	- #card ~週
 	- #card ~個月 (需搭配漢字數詞)
 	- #card ~年
+	- #card 暑假
+	  collapsed:: true
+		- 여름휴가
 	- #card 一天
+	- #card 兩天
+	- #card 三天
+	- #card 四天
+	- #card 五天
+	- #card 六天
+	- #card 七天
+	- #card 八天
+	- #card 九天
+	- #card 十天
 	- #card 去了一趟
 	- #card 生魚片
 	- #card 瑜珈
 	- #card 沙漠
 	- #card 溫泉
-	- #card 三天
 	- #card 再
 	- #card 借出
 	- #card 櫻花
