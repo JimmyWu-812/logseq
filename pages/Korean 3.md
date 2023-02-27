@@ -428,8 +428,20 @@
 	- #card 生魚片
 	- #card 瑜珈
 	- #card 沙漠
+	- #card 義大利
+	  collapsed:: true
+		- 이탈리아
 	- #card 溫泉
 	- #card 再
+	- #card 拜託、請求
+	  collapsed:: true
+		- 부탁
+	- #card 世宗大王
+	  collapsed:: true
+		- 세종대왕
+	- #card 尊敬
+	  collapsed:: true
+		- 존경하다
 	- #card 借出
 	- #card 櫻花
 	- #card 國際
